@@ -100,6 +100,42 @@ body {
   margin-bottom: 0;
 }
 
+/* Botão Refresh */
+.refresh-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 44px;
+  height: 44px;
+  background: rgba(20, 20, 30, 0.9);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.refresh-btn:hover {
+  background: rgba(78, 205, 196, 0.3);
+  border-color: #4ecdc4;
+  transform: rotate(180deg);
+}
+
+.refresh-btn:active {
+  transform: rotate(360deg) scale(0.95);
+}
+
+.refresh-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
 /* Créditos */
 .credits {
   position: fixed;
