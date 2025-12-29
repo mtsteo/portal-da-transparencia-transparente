@@ -61,10 +61,44 @@ body {
   transform: scale(0.9);
 }
 
-.modal h2 {
-  font-size: 1.8rem;
-  margin-bottom: 8px;
+.modal h2,
+.modal h3 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
   text-align: center;
+}
+
+.modal-about {
+  background: rgba(78, 205, 196, 0.1);
+  border: 1px solid rgba(78, 205, 196, 0.2);
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.modal-about p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.9rem;
+  margin: 0 0 12px 0;
+  line-height: 1.5;
+}
+
+.modal-about p:last-child {
+  margin-bottom: 0;
+}
+
+.modal-about strong {
+  color: #4ecdc4;
+}
+
+.modal-section-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
 }
 
 .modal-subtitle {
@@ -77,15 +111,15 @@ body {
 .modal-instructions {
   display: flex;
   flex-direction: column;
-  gap: 16px;
-  margin-bottom: 28px;
+  gap: 12px;
+  margin-bottom: 24px;
 }
 
 .instruction {
   display: flex;
   align-items: flex-start;
-  gap: 14px;
-  padding: 12px;
+  gap: 12px;
+  padding: 10px 12px;
   background: rgba(255, 255, 255, 0.05);
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.08);
