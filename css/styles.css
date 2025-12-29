@@ -17,6 +17,11 @@ body {
   height: 100vh;
 }
 
+/* Esconder info da biblioteca 3d-force-graph */
+.scene-nav-info {
+  display: none !important;
+}
+
 /* Legenda */
 .legend {
   position: fixed;
@@ -222,9 +227,27 @@ body {
     display: none;
   }
 
-  /* Esconder créditos no mobile para não cobrir info da lib */
+  /* Créditos compactos no mobile */
   .credits {
-    display: none;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    padding: 8px 12px;
+    text-align: center;
+  }
+
+  .credits p {
+    font-size: 0.75rem;
+  }
+
+  .credits .credits-year {
+    display: inline;
+    margin-left: 8px;
+  }
+
+  .credits .credits-year::before {
+    content: "•";
+    margin-right: 8px;
   }
 }
 
