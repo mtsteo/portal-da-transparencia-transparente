@@ -8,6 +8,47 @@
     <script src="https://cdn.jsdelivr.net/npm/3d-force-graph"></script>
   </head>
   <body>
+    <!-- Modal de Instruções (Mobile) -->
+    <div class="modal-overlay" id="instructionsModal">
+      <div class="modal">
+        <h2>👋 Bem-vindo!</h2>
+        <p class="modal-subtitle">Instruções</p>
+
+        <div class="modal-instructions">
+          <div class="instruction">
+            <span class="instruction-icon">👆</span>
+            <div>
+              <strong>Rotacionar</strong>
+              <p>Arraste com o dedo para girar o grafo</p>
+            </div>
+          </div>
+          <div class="instruction">
+            <span class="instruction-icon">🤏</span>
+            <div>
+              <strong>Zoom</strong>
+              <p>Use dois dedos para aproximar ou afastar</p>
+            </div>
+          </div>
+          <div class="instruction">
+            <span class="instruction-icon">👇</span>
+            <div>
+              <strong>Focar</strong>
+              <p>Toque em um nó para centralizar a câmera</p>
+            </div>
+          </div>
+          <div class="instruction">
+            <span class="instruction-icon">⏱️</span>
+            <div>
+              <strong>Detalhes</strong>
+              <p>Segure o dedo sobre um nó para ver informações</p>
+            </div>
+          </div>
+        </div>
+
+        <button class="modal-btn">Entendi! 🚀</button>
+      </div>
+    </div>
+
     <div id="3d-graph"></div>
 
     <!-- Legenda -->
