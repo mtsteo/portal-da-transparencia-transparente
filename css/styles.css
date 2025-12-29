@@ -169,10 +169,10 @@ body {
 
 /* ==================== MOBILE ==================== */
 @media (max-width: 768px) {
-  /* Legenda compacta no topo no mobile */
+  /* Legenda compacta embaixo no mobile */
   .legend {
-    top: 10px;
-    bottom: auto;
+    top: auto;
+    bottom: 70px;
     left: 10px;
     right: 10px;
     max-width: none;
