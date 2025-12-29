@@ -215,8 +215,8 @@ body {
   margin-bottom: 0;
 }
 
-/* Botão Refresh */
-.refresh-btn {
+/* Botão Info */
+.info-btn {
   position: fixed;
   top: 20px;
   right: 20px;
@@ -236,17 +236,17 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
-.refresh-btn:hover {
+.info-btn:hover {
   background: rgba(78, 205, 196, 0.3);
   border-color: #4ecdc4;
-  transform: rotate(180deg);
+  transform: scale(1.1);
 }
 
-.refresh-btn:active {
-  transform: rotate(360deg) scale(0.95);
+.info-btn:active {
+  transform: scale(0.95);
 }
 
-.refresh-btn svg {
+.info-btn svg {
   width: 20px;
   height: 20px;
 }

@@ -21,22 +21,38 @@ function closeModal() {
 }
 
 /**
- * Inicializa o modal de instruções (apenas mobile)
+ * Abre o modal de instruções
+ */
+function openModal() {
+  const modal = document.getElementById("instructionsModal");
+  if (modal) {
+    modal.classList.remove("hidden");
+  }
+}
+
+/**
+ * Inicializa o modal de instruções (apenas mobile na abertura)
  */
 function initModal() {
   const modal = document.getElementById("instructionsModal");
   const modalBtn = document.querySelector(".modal-btn");
+  const infoBtn = document.getElementById("infoBtn");
 
   if (!modal) return;
 
-  // Esconder se não for mobile ou já viu
+  // Esconder se não for mobile ou já viu (apenas na abertura automática)
   if (!isMobile() || localStorage.getItem("modalShown") === "true") {
     modal.classList.add("hidden");
   }
 
-  // Adicionar evento ao botão
+  // Adicionar evento ao botão de fechar
   if (modalBtn) {
     modalBtn.addEventListener("click", closeModal);
+  }
+
+  // Adicionar evento ao botão de info (abre modal)
+  if (infoBtn) {
+    infoBtn.addEventListener("click", openModal);
   }
 }
 
