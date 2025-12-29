@@ -133,10 +133,10 @@ body {
 
 /* ==================== MOBILE ==================== */
 @media (max-width: 768px) {
-  /* Legenda compacta no mobile */
+  /* Legenda compacta no topo no mobile */
   .legend {
-    top: auto;
-    bottom: 70px;
+    top: 10px;
+    bottom: auto;
     left: 10px;
     right: 10px;
     max-width: none;
@@ -186,39 +186,15 @@ body {
     display: none;
   }
 
-  /* Créditos compactos no mobile */
+  /* Esconder créditos no mobile para não cobrir info da lib */
   .credits {
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-    padding: 8px 12px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    align-items: center;
-  }
-
-  .credits p {
-    font-size: 0.7rem;
-    margin: 0;
-  }
-
-  .credits .credits-year {
-    margin-top: 0;
-    font-size: 0.7rem;
-  }
-
-  .credits .credits-year::before {
-    content: "•";
-    margin-right: 8px;
+    display: none;
   }
 }
 
 /* Mobile pequeno */
 @media (max-width: 480px) {
   .legend {
-    bottom: 60px;
     padding: 10px 12px;
   }
 
@@ -232,9 +208,5 @@ body {
 
   .legend-item {
     font-size: 0.7rem;
-  }
-
-  .credits {
-    padding: 6px 10px;
   }
 }
