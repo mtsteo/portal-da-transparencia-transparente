@@ -3,7 +3,7 @@
  */
 const CONFIG = {
   // Caminho dos dados
-  dataPath: "/dataset/data.json",
+  dataPath: "./dataset/data.json",
 
   // Configurações dos nós
   nodes: {
