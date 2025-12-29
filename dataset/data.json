@@ -1,0 +1,5245 @@
+{
+  "metadados": {
+    "fonte": "Prefeitura - Portal da Transparência",
+    "descricao": "Quadro Resumo de Licitações Realizadas",
+    "ano": 2025,
+    "data_extracao": "2025-12-29T16:03:50.299258",
+    "estatisticas": {
+      "total_licitacoes": 160,
+      "total_contratos": 350,
+      "tabelas_processadas": 286
+    }
+  },
+  "nodes": [
+    {
+      "numero_processo": "029/2025",
+      "processo_modalidade_completo": "Nº 029/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE PEÇAS E ACESSÓRIOS AUTOMOTIVOS ORIGINAIS OU GENUÍNOS E NOVOS, PARA VEÍCULOS CATEGORIZADOS COMO LEVES, PESADOS, MÁQUINAS, CONFORME FABRICANTES E MODELOS, DOS TRANSPORTES DA ADMINISTRAÇÃO GERAL, PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": null,
+        "raw": "V.U.: DIVERSOS ITENS V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "JJK PEÇAS E ACESSÓRIOS AUTOMOTORES EIRELI",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "09/10/2025",
+            "fim": "09/10/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "027/2025",
+      "processo_modalidade_completo": "Nº 027/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MATERIAIS DE INFORMÁTICA E SUPRIMENTOS DOS EQUIPAMENTOS DE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA PREFEITURA E DE TODAS AS SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "3003575.03",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.003.575,03"
+      },
+      "contratados": [
+        {
+          "nome": "SEVENTEC TECNOLOGIA E INFORMATICA LTDA -",
+          "cpf_cnpj": "08.784.976/0002-95",
+          "vigencia": {
+            "inicio": "17/10/2025",
+            "fim": "17/10/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "JOSE EDSON ALVES DE FIGUEIREDO LTDA",
+          "cpf_cnpj": "02.674.804/0001-00",
+          "vigencia": {
+            "inicio": "17/10/2025",
+            "fim": "17/10/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "Marcelo de J. C. Ferreira Eireli",
+          "cpf_cnpj": "22.617.420/0001-54",
+          "vigencia": {
+            "inicio": "17/10/2025",
+            "fim": "17/10/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SANDRO VILMAR PIRES",
+          "cpf_cnpj": "09.253.952/0001-91",
+          "vigencia": {
+            "inicio": "17/10/2025",
+            "fim": "17/10/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "TERMIX COMERCIAL LTDA",
+          "cpf_cnpj": "39.586.426/0001-04",
+          "vigencia": {
+            "inicio": "17/10/2025",
+            "fim": "17/10/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "026/2025",
+      "processo_modalidade_completo": "Nº 026/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE MATERIAIS DE CONSTRUÇÃO, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": null,
+        "raw": "V.U.: DIVERSOS ITENS V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "A E DE M VAZ - EIRELI - ME",
+          "cpf_cnpj": "19.789.828/0001-07",
+          "vigencia": {
+            "inicio": "26/09/2025",
+            "fim": "26/09/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "025/2025",
+      "processo_modalidade_completo": "Nº 025/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO EVENTUAL E FUTURA DE EMPRESA ESPECIALIZADA PELA PRESTAÇÃO DE SERVIÇO PARA RECUPERAÇÃO E MANUTENÇÃO DE PONTES DE MADEIRA NO MUNICÍPIO DE CAPITÃO POÇO",
+      "valores": {
+        "unitario": "3157109.78",
+        "total": "3125529.54",
+        "raw": "V.U.: R$3.157.109,78 V.T.: R$3.125.529,54"
+      },
+      "contratados": [
+        {
+          "nome": "R C CAVALCANTE EIRELI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "27/08/2025",
+            "fim": "27/09/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "024/2025",
+      "processo_modalidade_completo": "Nº 024/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM NO MUNICÍPIO DE CAPITÃO POÇO ? PA, PARA ATENDER A DIVERSOS SETORES E SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "315750.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$315.750,00"
+      },
+      "contratados": [
+        {
+          "nome": "M FELIPE DA SILVA - ME",
+          "cpf_cnpj": "83.858.001/0001-07",
+          "vigencia": {
+            "inicio": "22/08/2025",
+            "fim": "22/08/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "021/2025",
+      "processo_modalidade_completo": "Nº 021/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MARMITEX PARA ATENDER AS NECESSIDADES DA PREFEITURA E DE TODAS AS SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "35.17",
+        "total": "460000.0",
+        "raw": "V.U.: R$35,17 V.T.: R$460.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "PAULO CEZAR LRESTAURANTE E PIZZARIA JMIMA DE ANDRE",
+          "cpf_cnpj": "41.532.975/0001-48",
+          "vigencia": {
+            "inicio": "26/08/2025",
+            "fim": "26/08/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "020/2025",
+      "processo_modalidade_completo": "Nº 020/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MEDICAMENTOS DO COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA DE VENDA CONTROLADA PELA PORTARIA 344/98, PRESENTES NA RELAÇÃO NACIONAL DE MEDICAMENTOS ESSENCIAIS (RENAME) E DE PADRONIZAÇÃO PRÓPRIA DO MUNICÍPIO. SENDO ESTES APROVADOS PELO CONSELHO MUNICIPAL DE SAÚDE (CMS) PARA COMPOR A RELAÇÃO MUNICIPAL DE MEDICAMENTOS ESSENCIAIS (REMUME) E MEDICAMENTO GERAL NÃO PERTENCENTE A PORTARIA 344/98, OBJETIVANDO ATENDER AS NECESSIDADES TERAPÊUTICAS DOS MUNÍCIPES DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "4304531.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$4.304.531,00"
+      },
+      "contratados": [
+        {
+          "nome": "BRAGANTINA DISTRIBUIDORA DE MEDICAMENTOS LTDA-ME",
+          "cpf_cnpj": "07.832.455/0001-12",
+          "vigencia": {
+            "inicio": "12/09/2025",
+            "fim": "12/09/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBEN-DIST.DE PROD.FARM. LTDA",
+          "cpf_cnpj": "04.234.179/0001-00",
+          "vigencia": {
+            "inicio": "04/11/2025",
+            "fim": "04/11/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J E S FONSECA COMÉRCIO -EPP",
+          "cpf_cnpj": "04.707.391/0001-30",
+          "vigencia": {
+            "inicio": "12/09/2025",
+            "fim": "12/09/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R S LOBATO NETO LTDA",
+          "cpf_cnpj": "38.028.373/0001-43",
+          "vigencia": {
+            "inicio": "27/11/2025",
+            "fim": "27/11/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R C ZAGALLO MARQUES & CIA - EPP",
+          "cpf_cnpj": "83.929.976/0001-70",
+          "vigencia": {
+            "inicio": "12/09/2025",
+            "fim": "12/09/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ALTAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME",
+          "cpf_cnpj": "21.581.445/0001-82",
+          "vigencia": {
+            "inicio": "12/09/2025",
+            "fim": "12/09/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "018/2025",
+      "processo_modalidade_completo": "Nº 018/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MOBILIÁRIO ESCOLAR, PARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE CAPITÃO POÇO",
+      "valores": {
+        "unitario": null,
+        "total": "4735000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$4.735.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "M R M ANANIN COMERCIAL EIRELI",
+          "cpf_cnpj": "29.366.508/0001-90",
+          "vigencia": {
+            "inicio": "20/08/2025",
+            "fim": "20/08/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "022/2025",
+      "processo_modalidade_completo": "Nº 022/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PESTAÇÃO DE SERVIÇO DE AGENCIAMENTO DE PASSAGEM AÉREA (EMISSÃO, REMISSÃO, RESERVA, MARCAÇÃO, REMARCAÇÃO, CANCELAMENTO) PARA VIAGENS NACIONAIS E INTERNACIONAIS, VISANDO O ATENDIMENTO DAS NECESSIDADES DA PREFEITURA MUNICIPAL, SECRETARIAS E FUNDOS MUNICIPAIS DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": "700000.0",
+        "total": "552650.0",
+        "raw": "V.U.: R$700.000,00 V.T.: R$552.650,00"
+      },
+      "contratados": [
+        {
+          "nome": "T F MARQUES DA ROCHA",
+          "cpf_cnpj": "34.594.091/0001-52",
+          "vigencia": {
+            "inicio": "26/08/2025",
+            "fim": "26/08/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "019/2025",
+      "processo_modalidade_completo": "Nº 019/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA DESTINADA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO DE PRÓTESE DENTARIA DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "187992.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$187.992,00"
+      },
+      "contratados": [
+        {
+          "nome": "Jmm Servicos de Protese Dentaria LTDA",
+          "cpf_cnpj": "33.651.081/0001-49",
+          "vigencia": {
+            "inicio": "30/07/2025",
+            "fim": "30/07/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "017/2025",
+      "processo_modalidade_completo": "Nº 017/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA ATENDER AS NECESSIDADES DA PREFEITURA E DE TODAS AS SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "3280841.6",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.280.841,60"
+      },
+      "contratados": [
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "09/07/2025",
+            "fim": "09/07/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "003/2025",
+      "processo_modalidade_completo": "Nº 003/2025 Ata de Adesão ? SRP",
+      "modalidade": "Ata de Adesão ? SRP",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS MÉDICOS E CONSULTAS ESPECIALIZADAS COM FORNECIMENTO DE PLATAFORMA DE TELEMEDICINA, FORNECIMENTO DE PRONTUÁRIO ELETRÔNICO E CONTROLE ELETRÔNICO DE ESCALAS MÉDICAS OBJETIVANDO ATENDER AS NECESSIDADES PRECÍPUAS DO FUNDO MUNICIPAL DE SAÚDE DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "394679.25",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$394.679,25"
+      },
+      "contratados": [
+        {
+          "nome": "ONSAUDE SERVIÇOS DE SAÚDE LTDA",
+          "cpf_cnpj": "38.086.505/0001-93",
+          "vigencia": {
+            "inicio": "10/07/2025",
+            "fim": "10/07/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "016/2025",
+      "processo_modalidade_completo": "Nº 016/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO PARCELADO DE COMBUSTÍVEIS PARA ATENDER AS NECESSIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DE CAPITÃO POÇO/PA CONFORME TABELA CONSTANTE DO TERMO DE REFERÊNCIA, FACULTANDO-SE AO LICITANTE A PARTICIPAÇÃO EM QUANTOS ITENS FOREM DE SEU INTERESSE.",
+      "valores": {
+        "unitario": null,
+        "total": "18615470.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$18.615.470,00"
+      },
+      "contratados": [
+        {
+          "nome": "AUTO POSTO NAZARE LTDA",
+          "cpf_cnpj": "10.912.110/0001-83",
+          "vigencia": {
+            "inicio": "04/06/2025",
+            "fim": "04/06/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "015/2025",
+      "processo_modalidade_completo": "Nº 015/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "PREDIAL PREVENTIVA E CORRETIVA, REVITALIZAÇÃO E REPAROS COM FORNECIMENTOS DE MATERIAIS MÃO DE OBRA E EQUIPAMENTOS NOS PRÉDIOS PÚBLICOS DISCRIMINADOS NO PROCESSO DE ADMINISTRAÇÃO Nº 2025.090401, CONFORME TERMO DE REFERÊNCIA, MEMORIAL DESCRITIVO, PLANILHAS ORÇAMENTÁRIAS ANEXAS AO EDITAL.",
+      "valores": {
+        "unitario": "7171266.29",
+        "total": "5379166.84",
+        "raw": "V.U.: R$7.171.266,29 V.T.: R$5.379.166,84"
+      },
+      "contratados": [
+        {
+          "nome": "I B DE MESQUITA JUNIOR LTDA",
+          "cpf_cnpj": "30.796.879/0001-90",
+          "vigencia": {
+            "inicio": "03/06/2025",
+            "fim": "03/06/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "014/2025",
+      "processo_modalidade_completo": "Nº 014/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE MATERIAIS PARA LABORATÓRIO E REAGENTES, DESTINADOS AO LABORATÓRIO MUNICIPAL DE CAPITÃO POÇO, ATENDENDO AS DEMANDAS DA ASSISTÊNCIA MÉDICA ESPECIALIZADA-AME E SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO-PA.",
+      "valores": {
+        "unitario": null,
+        "total": "571082.21",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$571.082,21"
+      },
+      "contratados": [
+        {
+          "nome": "AHCOR COMERCIO DE PRODUTOS ODONTOLÓGICOS LTDA",
+          "cpf_cnpj": "37.556.213/0001-04",
+          "vigencia": {
+            "inicio": "04/06/2025",
+            "fim": "04/06/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "D M C MESSIAS LTDA",
+          "cpf_cnpj": "17.992.985/0001-81",
+          "vigencia": {
+            "inicio": "04/06/2025",
+            "fim": "04/06/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "LIMA NASCIMENTO LTDA",
+          "cpf_cnpj": "52.443.862/0001-92",
+          "vigencia": {
+            "inicio": "04/06/2025",
+            "fim": "04/06/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R N SILVA COMERCIO DE MATERIAIS HOSPITALARES LTDA",
+          "cpf_cnpj": "03.156.192/0001-18",
+          "vigencia": {
+            "inicio": "02/09/2025",
+            "fim": "02/09/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A L F SILVA & CIA LTDA",
+          "cpf_cnpj": "40.949.490/0001-91",
+          "vigencia": {
+            "inicio": "04/06/2025",
+            "fim": "04/06/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2025",
+      "processo_modalidade_completo": "Nº 012/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA RECUPERAÇÃO DE ESTRADAS VICINAIS NO MUNICÍPIO DE CAPITÃO POÇO (PA).",
+      "valores": {
+        "unitario": "14693752.38",
+        "total": "14599999.98",
+        "raw": "V.U.: R$14.693.752,38 V.T.: R$14.599.999,98"
+      },
+      "contratados": [
+        {
+          "nome": "OMEGA EMPREENDIMENTOS E SERVICOS LTDA",
+          "cpf_cnpj": "47.673.190/0001-71",
+          "vigencia": {
+            "inicio": "21/05/2025",
+            "fim": "21/05/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/2025",
+      "processo_modalidade_completo": "Nº 013/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE CESTAS BÁSICAS DE ALIMENTOS E ÁGUA MINERAL PARA DISTRIBUIÇÃO A FAMÍLIAS RESIDENTES NA ZONA RURAL DO MUNICÍPIO DE CAPITÃO POÇO, ATINGIDAS PELA ESTIAGEM, EM SITUAÇÃO DE VULNERABILIDADE SOCIAL E INSEGURANÇA ALIMENTAR EM DECORRÊNCIA DA ESTIAGEM PROLONGADA.",
+      "valores": {
+        "unitario": null,
+        "total": "1160434.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.160.434,00"
+      },
+      "contratados": [
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "19/05/2025",
+            "fim": "19/05/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2025",
+      "processo_modalidade_completo": "Nº 011/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÕES E REPAROS DE UNIDADES ESCOLARES DO MUNICÍPIO DE CAPITÃO POÇO-PA.",
+      "valores": {
+        "unitario": "10030498.7",
+        "total": "7521873.99",
+        "raw": "V.U.: R$10.030.498,70 V.T.: R$7.521.873,99"
+      },
+      "contratados": [
+        {
+          "nome": "L N COMERCIO E SERVICOS LTDA",
+          "cpf_cnpj": "40.366.396/0001-00",
+          "vigencia": {
+            "inicio": "07/05/2025",
+            "fim": "07/06/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2025",
+      "processo_modalidade_completo": "Nº 009/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TRANSPORTE FORA DO DOMICILIO ? TFD QUE DIZ RESPEITO AO TRANSPORTE DE PACIENTES QUE FAZEM TRATAMENTO DE SAÚDE FORA DO MUNICÍPIO PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "2376000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.376.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "GNT TRANSPORTES CAPITÃO POÇO LTDA",
+          "cpf_cnpj": "44.940.349/0001-89",
+          "vigencia": {
+            "inicio": "05/05/2025",
+            "fim": "05/05/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2025",
+      "processo_modalidade_completo": "Nº 010/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE HORAS DE SERVIÇOS MECÂNICOS, ELÉTRICOS, LANTERNAGEM, TORNO E SOLDA PARA VEÍCULOS LEVES E PESADOS (GASOLINA E DIESEL), DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA, SECRETARIAS E FUNDOS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "554268.2",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$554.268,20"
+      },
+      "contratados": [
+        {
+          "nome": "J J K PECAS E ACESSORIOS AUTOMOTORES LTDA",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "16/06/2025",
+            "fim": "16/06/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2025",
+      "processo_modalidade_completo": "Nº 007/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FUTURA E EVENTUAL AQUISIÇÃO DE OLEOS LUBRIFICANTES, FILTROS E BATERIAS VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "1236426.67",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.236.426,67"
+      },
+      "contratados": [
+        {
+          "nome": "J J K PECAS E ACESSORIOS AUTOMOTORES LTDA",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "19/05/2025",
+            "fim": "19/05/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2025",
+      "processo_modalidade_completo": "Nº 006/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS GRÁFICOS IMPRESSOS, DESTINADOS A ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO, SECRETARIAS MUNICIPAIS E TODOS OS SETORES PERTENCENTES A ADMINISTRAÇÃO PÚBLICA.",
+      "valores": {
+        "unitario": null,
+        "total": "1893234.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.893.234,00"
+      },
+      "contratados": [
+        {
+          "nome": "GRAFICA RAPIDA LTDA",
+          "cpf_cnpj": "35.644.124/0001-94",
+          "vigencia": {
+            "inicio": "14/05/2025",
+            "fim": "14/05/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MALHARIA METALURGICA E GRAFICA IMPERIO",
+          "cpf_cnpj": "49.470.387/0001-39",
+          "vigencia": {
+            "inicio": "14/05/2025",
+            "fim": "14/05/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2025",
+      "processo_modalidade_completo": "Nº 005/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MOBILIÁRIO ESCOLAR, EQUIPAMENTOS PERMANENTES E BRINQUEDOTECA PARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICIPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "2723832.4",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.723.832,40"
+      },
+      "contratados": [
+        {
+          "nome": "SANTANA E SOUZA DISTRIBUIDORA E COMERCIO D MOVEIS EIRELI",
+          "cpf_cnpj": "34.390.049/0001-10",
+          "vigencia": {
+            "inicio": "17/07/2025",
+            "fim": "17/07/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "M R M ANANIN COMERCIAL EIRELI",
+          "cpf_cnpj": "29.366.508/0001-90",
+          "vigencia": {
+            "inicio": "17/07/2025",
+            "fim": "17/07/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2025",
+      "processo_modalidade_completo": "Nº 004/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇO PARA ATENDIMENTO DO TRANSPORTE ESCOLAR PARA ZONA RURAL E URBANA DOS ALUNOS MATRICULADOS NA REDE MUNICIPAL DE EDUCAÇÃO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "5521049.86",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.521.049,86"
+      },
+      "contratados": [
+        {
+          "nome": "GNT TRANSPORTES CAPITÃO POÇO LTDA",
+          "cpf_cnpj": "44.940.349/0001-89",
+          "vigencia": {
+            "inicio": "08/04/2025",
+            "fim": "08/04/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2025",
+      "processo_modalidade_completo": "Nº 001/2025 Chamamento Público",
+      "modalidade": "Chamamento Público",
+      "objeto": "AQUISIÇÃO, PARCELADA E CONTÍNUA, DE GÊNEROS ALIMENTÍCIOS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL, PARA O ATENDIMENTO AO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR ? PNAE, CONFORME ESPECIFICAÇÕES DOS GÊNEROS ALIMENTÍCIOS, DESTINADOS A ALIMENTAÇÃO ESCOLAR DA REDE DE ENSINO DO MUNICÍPIO DE CAPITÃO POÇO NO ANEXO I ? TERMO DE REFERÊNCIA.",
+      "valores": {
+        "unitario": null,
+        "total": "2328710.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.328.710,00"
+      },
+      "contratados": [
+        {
+          "nome": "COOPERATIVA DE PRODUÇÃO E COMERCIALIZAÇÃO DOS AGRICULTORES FAMILIARES - COOPROCOFAM",
+          "cpf_cnpj": "32.916.754/0001-82",
+          "vigencia": {
+            "inicio": "19/02/2025",
+            "fim": "19/02/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2025",
+      "processo_modalidade_completo": "Nº 002/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE RECARGA DE BOTIJÃO DE GÁS LIQUEFEITO DE PETRÓLEO ? GLP 13, DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA E SECRETARIAS NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": "120.0",
+        "total": "409356.6",
+        "raw": "V.U.: R$120,00 V.T.: R$409.356,60"
+      },
+      "contratados": [
+        {
+          "nome": "W DO NASCIMENTO FORTE EIRELI",
+          "cpf_cnpj": "40.877.674/0001-93",
+          "vigencia": {
+            "inicio": "10/02/2025",
+            "fim": "10/02/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2025",
+      "processo_modalidade_completo": "Nº 001/2025 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DESTINADOS A ALIMENTAÇÃO ESCOLAR DURANTE O PERÍODO LETIVO DE 2025 DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR.",
+      "valores": {
+        "unitario": null,
+        "total": "7950942.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$7.950.942,50"
+      },
+      "contratados": [
+        {
+          "nome": "A P S CASTRO COMERCIO EIRELI - EPP",
+          "cpf_cnpj": "25.080.014/0001-93",
+          "vigencia": {
+            "inicio": "26/02/2025",
+            "fim": "26/02/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CM FLOREZANO WANZELER LTDA",
+          "cpf_cnpj": "26.372.424/0001-70",
+          "vigencia": {
+            "inicio": "26/02/2025",
+            "fim": "26/02/2026"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R MASTER COMERCIO DE ALIMENTOS EIRELI",
+          "cpf_cnpj": "26.892.930/0001-90",
+          "vigencia": {
+            "inicio": "26/02/2025",
+            "fim": "26/02/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2024",
+      "processo_modalidade_completo": "Nº 001/2024 Ata de Adesão ? SRP",
+      "modalidade": "Ata de Adesão ? SRP",
+      "objeto": "ADESÃO À ATA DE REGISTRO DE PREÇOS SRP N°9/141101-2023 CONCORRÊNCIA REALIZADO PELA PREFEITURA MUNICIPAL DE IRITUIA-PA.",
+      "valores": {
+        "unitario": "5899299.3",
+        "total": "5899299.3",
+        "raw": "V.U.: R$5.899.299,30 V.T.: R$5.899.299,30"
+      },
+      "contratados": [
+        {
+          "nome": "OMEGA EMPREENDIMENTOS E SERVICOS LTDA",
+          "cpf_cnpj": "47.673.190/0001-71",
+          "vigencia": {
+            "inicio": "17/04/2024",
+            "fim": "17/04/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2023",
+      "processo_modalidade_completo": "Nº 001/2023 Ata de Adesão ? SRP",
+      "modalidade": "Ata de Adesão ? SRP",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MANUTENÇÃO PREVENTIVA E CORRETIVA DOS APARELHOS DO LABORATÓRIO MUNICIPAL E APARELHO DE RADIOGRAFIA NO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "147240.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$147.240,00"
+      },
+      "contratados": [
+        {
+          "nome": "A IMAGEM COMERCIO E SERVIÇOS LTDA-ME",
+          "cpf_cnpj": "07.377.150/0001-68",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2022",
+      "processo_modalidade_completo": "Nº 001/2022 Ata de Adesão ? SRP",
+      "modalidade": "Ata de Adesão ? SRP",
+      "objeto": "FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LICENÇA DE USO DE SISTEMAS DE GESTÃO PÚBLICA EM WEB INTEGRADA, PROCESSAMENTO AUTOMATIZADO DA DÍVIDA ATIVA, REGISTRO DE LIQUIDAÇÃO ELETRÔNICO DOS BOLETOS POR INTERFACE VIA API, CONVERSÃO DE BANCO DE DADOS E CAPACITAÇÃO DOS SERVIDORES PARA USO DAS FERRAMENTAS, PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE, SECRETARIA MUNICIPAL DE EDUCAÇÃO E A PREFEITURA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "397117.81",
+        "total": "378254.4",
+        "raw": "V.U.: R$397.117,81 V.T.: R$378.254,40"
+      },
+      "contratados": [
+        {
+          "nome": "NOBE SOFTWARE DE GESTAO INTEGRADA LTDA",
+          "cpf_cnpj": "14.108.730/0001-15",
+          "vigencia": {
+            "inicio": "22/01/2023",
+            "fim": "22/01/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/2024",
+      "processo_modalidade_completo": "Nº 013/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE MATERIAIS DE HIGIENE E LIMPEZA, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "3242262.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.242.262,50"
+      },
+      "contratados": [
+        {
+          "nome": "DIONAL DISTRIBUIDORA DE PRODUTOS LTDA",
+          "cpf_cnpj": "40.061.199/0001-82",
+          "vigencia": {
+            "inicio": "20/12/2024",
+            "fim": "20/12/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. E. TAVARES DE SOUZA FILHO - ME",
+          "cpf_cnpj": "27.422.577/0001-48",
+          "vigencia": {
+            "inicio": "20/12/2024",
+            "fim": "20/12/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "KANIA COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "cpf_cnpj": "41.836.567/0001-80",
+          "vigencia": {
+            "inicio": "20/12/2024",
+            "fim": "20/12/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "OLIVEIRA E SILVA LTDA - ME",
+          "cpf_cnpj": "25.344.776/0001-50",
+          "vigencia": {
+            "inicio": "20/12/2024",
+            "fim": "20/12/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2024",
+      "processo_modalidade_completo": "Nº 012/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FUTURA E EVENTUAL AQUISIÇÃO DE ARTEFATOS DE CIMENTO, TAIS COMO BLOQUETES, MEIO FIO E TUBOS DE CONCRETO, VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "4384000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$4.384.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "ANTONIO J C DA SILVA EIRELI EPP",
+          "cpf_cnpj": "38.297.946/0001-34",
+          "vigencia": {
+            "inicio": "14/11/2024",
+            "fim": "14/11/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "L & C SERVICOS E LOCACOES LTDA",
+          "cpf_cnpj": "22.422.628/0001-18",
+          "vigencia": {
+            "inicio": "14/11/2024",
+            "fim": "14/11/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2024",
+      "processo_modalidade_completo": "Nº 011/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE DESALOJAMENTO DE MORCEGOS E LIMPEZA DE FORRO, COM O FORNECIMENTO DE MÃO DE OBRA E TODOS OS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS, NAS ÁREAS INTERNAS E EXTERNAS DA PREFEITURA, SECRETARIAS MUNICIPAIS, ESCOLAS E UNIDADES DE SAÚDE.",
+      "valores": {
+        "unitario": null,
+        "total": "209476.29",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$209.476,29"
+      },
+      "contratados": [
+        {
+          "nome": "MOURA IMUNIZACAO E CONTROLE DE PRAGAS LTDA",
+          "cpf_cnpj": "24.049.349/0001-86",
+          "vigencia": {
+            "inicio": "31/01/2025",
+            "fim": "31/01/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2024",
+      "processo_modalidade_completo": "Nº 010/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE GASES MEDICINAIS COM AQUISIÇÃO E RECARGA DE CILINDROS DE OXIGÊNIO E COMPRA DE MATERIAIS MEDICINAIS PARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE SAÚDE DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "2633042.91",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.633.042,91"
+      },
+      "contratados": [
+        {
+          "nome": "R.V.DA S MARQUES",
+          "cpf_cnpj": "06.105.627/0001-93",
+          "vigencia": {
+            "inicio": "13/09/2024",
+            "fim": "13/09/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "WHITE MARTINS GASES INDUSTRIAIS DO NORTE LTDA.",
+          "cpf_cnpj": "34.597.955/0013-23",
+          "vigencia": {
+            "inicio": "13/09/2024",
+            "fim": "01/09/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2024",
+      "processo_modalidade_completo": "Nº 004/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FUTURA E EVENTUAL FORNECIMENTO DE REFEIÇÕES PRONTAS ACONDICIONADAS EM EMBALAGENS DESCARTÁVEIS, TIPO ?MARMITEX?, PARA ATENDER AS NECESSIDADES DA PREFEITURA, FUNDOS E DEMAIS SECRETARIAS MUNICIPAIS DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": "30.89",
+        "total": "460000.0",
+        "raw": "V.U.: R$30,89 V.T.: R$460.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "PAULO CEZAR LIMA DE ANDRE",
+          "cpf_cnpj": "41.532.975/0001-48",
+          "vigencia": {
+            "inicio": "11/03/2025",
+            "fim": "11/03/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "008/2024",
+      "processo_modalidade_completo": "Nº 008/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE CAMINHOES PARA AUXÍLIO NO SERVIÇO DESEMPENHADO PELO SETOR DE ILUMINAÇÃO PÚBLICA - SECRETARIA DE OBRAS DO MUNICIPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "570947.92",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$570.947,92"
+      },
+      "contratados": [
+        {
+          "nome": "TARTEC SOLUCOES E COMERCIO LTDA",
+          "cpf_cnpj": "48.224.252/0001-20",
+          "vigencia": {
+            "inicio": "07/08/2024",
+            "fim": "07/08/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2023",
+      "processo_modalidade_completo": "Nº 007/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE KIT DE MERENDA ESCOLAR (PRATOS, COLHERES E CANECAS) PARA ALUNOS DAS ESCOLAS E CRECHES MUNICIPAIS DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "9.6",
+        "total": "61300.0",
+        "raw": "V.U.: R$9,60 V.T.: R$61.300,00"
+      },
+      "contratados": [
+        {
+          "nome": "J. L. R. ARAUJO COM E SERVICOS - EPP",
+          "cpf_cnpj": "83.913.665/0001-13",
+          "vigencia": {
+            "inicio": "26/02/2025",
+            "fim": "26/02/2026"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2024",
+      "processo_modalidade_completo": "Nº 006/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AQUISIÇÃO DE MATERIAIS ELÉTRICOS PARA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA MUNICIPAL, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "5821735.6",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.821.735,60"
+      },
+      "contratados": [
+        {
+          "nome": "AUGE LUZ MATERIAIS ELETRICOS LTDA",
+          "cpf_cnpj": "42.698.864/0001-79",
+          "vigencia": {
+            "inicio": "15/07/2024",
+            "fim": "15/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "Lendario Com e Importacao de Mats Eletricos LTDA",
+          "cpf_cnpj": "52.203.880/0001-05",
+          "vigencia": {
+            "inicio": "15/07/2024",
+            "fim": "15/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "TARTEC SOLUCOES E COMERCIO LTDA",
+          "cpf_cnpj": "48.224.252/0001-20",
+          "vigencia": {
+            "inicio": "15/07/2024",
+            "fim": "15/07/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2024",
+      "processo_modalidade_completo": "Nº 005/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO PARCELADO DE COMBUSTÍVEIS PARA ATENDER AS NECESSIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DE CAPITÃO POÇO/PA CONFORME TABELA CONSTANTE DO TERMO DE REFERÊNCIA, FACULTANDO-SE AO LICITANTE A PARTICIPAÇÃO EM QUANTOS ITENS FOREM DE SEU INTERESSE.",
+      "valores": {
+        "unitario": null,
+        "total": "19025124.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$19.025.124,00"
+      },
+      "contratados": [
+        {
+          "nome": "AUTO POSTO NAZARE LTDA",
+          "cpf_cnpj": "10.912.110/0001-83",
+          "vigencia": {
+            "inicio": "27/05/2024",
+            "fim": "27/05/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "003/2024",
+      "processo_modalidade_completo": "Nº 003/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL PERMANENTE ? MOBILIÁRIO HOSPITALAR, EQUIPAMENTO HOSPITALAR COM DESTINAÇÃO A REDE DE SAÚDE DE MÉDIA COMPLEXIDADE DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO-PA: ASSISTÊNCIA MÉDICA ESPECIALIZADA-AME.",
+      "valores": {
+        "unitario": null,
+        "total": "903547.21",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$903.547,21"
+      },
+      "contratados": [
+        {
+          "nome": "ASSUNCAO & LAVOR TECNOLOGIA LTDA",
+          "cpf_cnpj": "45.538.349/0001-10",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ASCAMAS COMERCIO DE PRODUTOS MEDICOS HOSPITALARES EIR",
+          "cpf_cnpj": "17.305.750/0001-74",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "UNIVERSAL FABRICACAO E COMERCIO DE MOVEIS LTDA",
+          "cpf_cnpj": "21.041.143/0001-11",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A. UNIDOS DISTRIBUIDORA EIRELI",
+          "cpf_cnpj": "36.442.253/0001-62",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BS EQUIPAMENTOS, INDUSTRIA E COMERCIO LTDA",
+          "cpf_cnpj": "04.709.243/0001-54",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CASMED COM. DE ARTIGOS MÉDICOS E MED. LTDA - ME",
+          "cpf_cnpj": "07.332.016/0001-40",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CIRURGICAS CERON EQUIPAMENTOS HOSPITALARES E VETERINARI",
+          "cpf_cnpj": "18.258.209/0001-15",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBEN-DIST.DE PROD.FARM. LTDA",
+          "cpf_cnpj": "04.234.179/0001-00",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBUIDORA BELEM LTDA",
+          "cpf_cnpj": "17.557.433/0001-45",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ENDOGERAIS EQUIPAMENTOS MEDICOS LTDA",
+          "cpf_cnpj": "08.697.852/0001-91",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "F. CARDOSO & CIA LTDA",
+          "cpf_cnpj": "04.949.905/0001-63",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "M. CARREGA COMERCIO DE PRODUTOS",
+          "cpf_cnpj": "32.593.430/0001-50",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. RIBEIRO COMERCIO ATACADISTA LTDA",
+          "cpf_cnpj": "84.972.926/0001-39",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MARTE CIENTIFICA & INSTRUMENTACAO INDUSTRIAL LTDA",
+          "cpf_cnpj": "60.431.715/0001-20",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "M R M ANANIN COMERCIAL EIRELI",
+          "cpf_cnpj": "29.366.508/0001-90",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "NEGI EQUIPAMENTOS HOSPITALARES LTDA",
+          "cpf_cnpj": "37.182.085/0001-86",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "NORTEMED DIST. DE PRODUTOS MÉDICOS LTDA-ME",
+          "cpf_cnpj": "05.048.534/0001-01",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R S DE CASTRO EIRELI",
+          "cpf_cnpj": "36.620.827/0001-45",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "RAPHAEL GONCALVES NICESIO - EPP",
+          "cpf_cnpj": "22.654.814/0001-82",
+          "vigencia": {
+            "inicio": "28/10/2024",
+            "fim": "28/10/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2024",
+      "processo_modalidade_completo": "Nº 001/2024 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE VEÍCULOS NOVOS/ZERO QUILÔMETRO PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE E DE ADMINISTRAÇÃO DO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "826000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$826.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "EMPORIO 77 LTDA",
+          "cpf_cnpj": "13.430.713/0001-37",
+          "vigencia": {
+            "inicio": "04/04/2024",
+            "fim": "04/04/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "031/2023",
+      "processo_modalidade_completo": "Nº 031/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA DE PRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS ESPECIALIZADOS EM CONSULTORIA E ASSESSORIA ADMINISTRATIVA, CONTÁBIL E TRIBUTÁRIA COM UTILIZAÇÃO DE INTELIGÊNCIA FISCAL POR MEIO DE SOFTWARE ESPECIFICO, PARA PLANEJAMENTO E ACOMPANHAMENTO DE FISCALIZAÇÃO TRIBUTÁRIA, COM VISTAS À RECUPERAÇÃO DE CRÉDITO TRIBUTÁRIO REFERENTE AO ISS, ITBI, IPTU, ALVARÁS, DÍVIDA ATIVA, ITR E DEMAIS RECEITAS TRIBUTÁVEIS, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "valores": {
+        "unitario": "2070000.0",
+        "total": "1798990.0",
+        "raw": "V.U.: R$2.070.000,00 V.T.: R$1.798.990,00"
+      },
+      "contratados": [
+        {
+          "nome": "NOBE SOFTWARE DE GESTÃO INTEGRADA LTDA",
+          "cpf_cnpj": "14.108.730/0001-15",
+          "vigencia": {
+            "inicio": "25/10/2023",
+            "fim": "25/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "030/2023",
+      "processo_modalidade_completo": "Nº 030/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESAS ESPECIALIZADAS NO FORNECIMENTO DE UNIFORMES E MATERIAIS TÉCNICOS, DE USO PESSOAL, QUE SERÃO DESTINADOS AOS PROFISSIONAIS: (AGENTE COMUNITÁRIO DE SAÚDE ? ACS E AGENTE DE COMBATE A ENDEMIAS ? ACE) CONFORME DEMANDA E DISPONIBILIDADE ORÇAMENTÁRIA, DE ACORDO COM ESPECIFICAÇÕES E QUANTIDADES ESTABELECIDAS NESTE EDITAL.",
+      "valores": {
+        "unitario": null,
+        "total": "78937.8",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$78.937,80"
+      },
+      "contratados": [
+        {
+          "nome": "GRÁFICA RAMOS EIRELI-ME",
+          "cpf_cnpj": "35.644.124/0001-94",
+          "vigencia": {
+            "inicio": "04/10/2023",
+            "fim": "04/10/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R S DE CASTRO EIRELI",
+          "cpf_cnpj": "36.620.827/0001-45",
+          "vigencia": {
+            "inicio": "04/10/2023",
+            "fim": "04/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2023",
+      "processo_modalidade_completo": "Nº 005/2023 Concorrência",
+      "modalidade": "Concorrência",
+      "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A IMPLANTAÇÃO DE RECAPEAMENTO ASFÁLTICO NO MUNICÍPIO DE CAPITÃO POÇO (PA), CONFORME DESCRIÇÃO NO TERMO DE REFERENCIA ? ANEXO II.",
+      "valores": {
+        "unitario": null,
+        "total": "9925496.16",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$9.925.496,16"
+      },
+      "contratados": [
+        {
+          "nome": "MUNDIAL NORTE CONSTRUCOES EIRELI-ME",
+          "cpf_cnpj": "18.514.395/0001-06",
+          "vigencia": {
+            "inicio": "20/02/2024",
+            "fim": "20/02/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "044/2023",
+      "processo_modalidade_completo": "Nº 044/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇO PARA FUTURO FORNECIMENTO DE LIVROS DIDÁTICOS PARA EDUCAÇÃO INFANTIL E FUNDAMENTAL I E II PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "3300420.1",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.300.420,10"
+      },
+      "contratados": [
+        {
+          "nome": "INOVE EDUCACIONAL LTDA",
+          "cpf_cnpj": "35.187.278/0001-02",
+          "vigencia": {
+            "inicio": "18/03/2024",
+            "fim": "18/03/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ELISAFA A DE OLIVEIRA MARTINS LTDA",
+          "cpf_cnpj": "44.278.393/0001-75",
+          "vigencia": {
+            "inicio": "18/03/2024",
+            "fim": "18/03/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "041/2023",
+      "processo_modalidade_completo": "Nº 041/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DOS EQUIPAMENTOS DE INFORMÁTICA, DESTINADO A SUPRIR AS NECESSIDADES DA ADMINISTRAÇÃO PÚBLICA DE CAPITÃO POÇO-PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1163418.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.163.418,00"
+      },
+      "contratados": [
+        {
+          "nome": "L F DA CRUZ OLIVEIRA EIRELI",
+          "cpf_cnpj": "26.477.222/0001-93",
+          "vigencia": {
+            "inicio": "06/02/2024",
+            "fim": "06/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "TC COMERCIO DE SERVICOS E TECNOLOGIA LTDA EPP",
+          "cpf_cnpj": "07.679.989/0001-50",
+          "vigencia": {
+            "inicio": "06/02/2024",
+            "fim": "06/02/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "040/2023",
+      "processo_modalidade_completo": "Nº 040/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "PARA AQUISIÇÃO DE MATERIAIS DE INFORMATICA E SUPRIMENTOS PARA ADMINISTRAÇÃO MUNICIPAL, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "3469934.4",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.469.934,40"
+      },
+      "contratados": [
+        {
+          "nome": "L J S KUZE COMERCIO VAREJISTA DE INFORMATICA",
+          "cpf_cnpj": "36.906.809/0001-24",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "VIA NACIONAL DISTRIBUIDORA LTDA",
+          "cpf_cnpj": "39.822.881/0001-61",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "VC DA ROCHA DISTRIBUIDORA - ME",
+          "cpf_cnpj": "05.808.979/0001-42",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BRAVAR COMÉRCIO E SERVIÇOS LTDA",
+          "cpf_cnpj": "34.822.886/0001-70",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DLB COMERCIO DE PRODUTOS DE INFORMATICA EIRELI",
+          "cpf_cnpj": "40.708.647/0001-97",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "IMPÉRIO SOLUÇÕES PUBLICADAS LTDA",
+          "cpf_cnpj": "23.106.657/0001-33",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "L F DA CRUZ OLIVEIRA EIRELI",
+          "cpf_cnpj": "26.477.222/0001-93",
+          "vigencia": {
+            "inicio": "21/02/2024",
+            "fim": "21/02/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "043/2023",
+      "processo_modalidade_completo": "Nº 043/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "MATERIAIS DE USO ODONTOLOGICO PARA MANUTENÇÃO NO ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I ? TERMO DE REFERÊNCIA, POR SISTEMA DE REGISTRO DE PREÇO, VISANDO AQUISIÇÕES FUTURAS PELA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1538878.8",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.538.878,80"
+      },
+      "contratados": [
+        {
+          "nome": "DISTRIBUIDORA AGUA BOA LTDA",
+          "cpf_cnpj": "44.223.526/0001-06",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ALTAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME",
+          "cpf_cnpj": "21.581.445/0001-82",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J E S FONSECA COMÉRCIO -EPP",
+          "cpf_cnpj": "04.707.391/0001-30",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "L C B PONTES EIRELI - ME",
+          "cpf_cnpj": "17.763.550/0001-65",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SYSTHEX - SISTEMAS DE IMPLANTES OSSEO INTEGRADO LTDA",
+          "cpf_cnpj": "05.644.129/0001-56",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R DISTRIBUIDORA DE MEDICAMENTOS E EMPREEDIMENTOS LTDA",
+          "cpf_cnpj": "41.012.455/0001-04",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "COMEPI PRODUTOS COMERCIAIS EIRELI - ME",
+          "cpf_cnpj": "11.768.299/0001-45",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "EMIGE MATERIAIS ODONTOLOGICOS LTDA",
+          "cpf_cnpj": "71.505.564/0001-24",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "RGLMED COMERCIO ATACADISTA DE EQUIPAMENTOS HOSPITALARES LTDA",
+          "cpf_cnpj": "50.867.070/0001-10",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "D-X INDUSTRIA, COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+          "cpf_cnpj": "02.228.938/0001-99",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "E. T. MARQUES EIRELI-ME",
+          "cpf_cnpj": "08.691.632/0001-50",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "AHCOR COMERCIO DE PRODUTOS ODONTOLÓGICOS LTDA",
+          "cpf_cnpj": "37.556.213/0001-04",
+          "vigencia": {
+            "inicio": "29/02/2024",
+            "fim": "29/02/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "039/2023",
+      "processo_modalidade_completo": "Nº 039/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE MATERIAIS PERMANENTE, PARA MANUTENÇÃO NO FUNCIONAMENTO AOS ATENDIMENTOS GERAL DE COSTUMES.",
+      "valores": {
+        "unitario": null,
+        "total": "5329960.3",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.329.960,30"
+      },
+      "contratados": [
+        {
+          "nome": "PSL CIRINO COLCHOES LTDA",
+          "cpf_cnpj": "34.147.359/0001-08",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A Rodrigues Com e Servicos LTDA",
+          "cpf_cnpj": "51.164.013/0001-37",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "GO VENDAS ELETRONICAS",
+          "cpf_cnpj": "36.521.392/0001-81",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J E S BEZERRA EIRELI",
+          "cpf_cnpj": "14.357.387/0001-42",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MALU DISTRIBUIDORA E REPRESENTACOES EIRELI",
+          "cpf_cnpj": "42.649.742/0001-92",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MICROTECNICA INFORMATICA LTDA",
+          "cpf_cnpj": "01.590.728/0009-30",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SUPERAR LTDA",
+          "cpf_cnpj": "13.482.516/0001-61",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "VALLE COMERCIAL LTDA - EPP",
+          "cpf_cnpj": "02.257.228/0001-97",
+          "vigencia": {
+            "inicio": "26/01/2024",
+            "fim": "26/01/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "037/2023",
+      "processo_modalidade_completo": "Nº 037/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE MATERIAIS TÉCNICOS E AMBULATORIAL (CORRELATOS E PERMANENTE) PARA MANUTENÇÃO NO ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE, VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA, NOS TERMOS DA LEI.",
+      "valores": {
+        "unitario": null,
+        "total": "2429050.2",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.429.050,20"
+      },
+      "contratados": [
+        {
+          "nome": "ALTAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME",
+          "cpf_cnpj": "21.581.445/0001-82",
+          "vigencia": {
+            "inicio": "05/07/2024",
+            "fim": "05/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CONQUISTA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA",
+          "cpf_cnpj": "12.418.191/0001-95",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBEN-DIST.DE PROD.FARM. LTDA",
+          "cpf_cnpj": "04.234.179/0001-00",
+          "vigencia": {
+            "inicio": "05/07/2024",
+            "fim": "05/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J E S FONSECA COMÉRCIO -EPP",
+          "cpf_cnpj": "04.707.391/0001-30",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MB MARTINS SERVICOS, PRODUTOS E EQUIPAMENTOS LTDA",
+          "cpf_cnpj": "04.541.813/0001-40",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "M.K.R. COMÉRCIO DE EQUIPAMENTOS EIRELI",
+          "cpf_cnpj": "31.499.939/0001-76",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MEDSANTA COMERCIO DE MEDICAMENTOS E MATERIAIS MEDICOS LTDA",
+          "cpf_cnpj": "36.757.380/0001-50",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MOGI MEDICAL EQUIPAMENTOS EIRELI",
+          "cpf_cnpj": "28.199.997/0001-70",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "RAPHAEL GONCALVES NICESIO - EPP",
+          "cpf_cnpj": "22.654.814/0001-82",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R S LOBATO NETO EIRELI",
+          "cpf_cnpj": "38.028.373/0001-43",
+          "vigencia": {
+            "inicio": "05/07/2024",
+            "fim": "05/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CIRURGICAS CERON EQUIPAMENTOS HOSPITALARES E VETERINARI",
+          "cpf_cnpj": "18.258.209/0001-15",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A. UNIDOS DISTRIBUIDORA EIRELI",
+          "cpf_cnpj": "36.442.253/0001-62",
+          "vigencia": {
+            "inicio": "28/02/2024",
+            "fim": "28/02/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "038/2023",
+      "processo_modalidade_completo": "Nº 038/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE VEÍCULOS NOVOS/ZERO QUILÔMETRO TIPO AMBULÂNCIA PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO",
+      "valores": {
+        "unitario": "145500.0",
+        "total": "852000.0",
+        "raw": "V.U.: R$145.500,00 V.T.: R$852.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "CAMMINARE MAQUINAS E EMPREENDIMENTOS LTDA",
+          "cpf_cnpj": "35.741.144/0001-83",
+          "vigencia": {
+            "inicio": "15/01/2024",
+            "fim": "15/01/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "036/2023",
+      "processo_modalidade_completo": "Nº 036/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PERMANENTES, COM A FINALIDADE DE ESTRUTURAÇÃO DA ACADEMIA DA SAÚDE, CENTRO DE REABILITAÇÃO E DAS EQUIPES MULTIPROFISSIONAIS NA ATENCAO PRIMÁRIA À SAUDE ( EMUTI) PARA ATENDIMENTO DAS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "182841.87",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$182.841,87"
+      },
+      "contratados": [
+        {
+          "nome": "WORKOUT COMERCIO DE PRODUTOS PARA SAUDE LTDA",
+          "cpf_cnpj": "24.550.559/0001-53",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "NUNES DE ALMEIDA LTDA",
+          "cpf_cnpj": "47.378.309/0001-83",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "METACORP COMERCIAL LTDA",
+          "cpf_cnpj": "51.297.756/0001-85",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "GO VENDAS ELETRONICAS",
+          "cpf_cnpj": "36.521.392/0001-81",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "FISIOMEDICA PRODUTOS E EQUIPAMENTOS LTDA - ME",
+          "cpf_cnpj": "05.118.766/0001-99",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "EXCLUSIVE FITPLAY FITNESS E PLAYGROUNDS LTDA",
+          "cpf_cnpj": "37.670.865/0001-75",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A A Z SAUDE COMERCIO DE PRODUTOS MEDICOS E HOSPITALARES EIRELI",
+          "cpf_cnpj": "17.238.455/0001-42",
+          "vigencia": {
+            "inicio": "18/01/2024",
+            "fim": "18/01/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "035/2023",
+      "processo_modalidade_completo": "Nº 035/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MATERIAIS PERMANENTES COM A FINALIDADE DE ESTRUTURAÇÃO DA REDE LABORATORIAL, PARA ATENDIMENTO E DIAGNÓSTICO, OBJETIVANDO SUPRIR A REDE DE SAÚDE DE CAPITÃO POÇO - PA, CONFORME DEMANDA E DISPONIBILIDADE ORÇAMENTARIA.",
+      "valores": {
+        "unitario": null,
+        "total": "191247.92",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$191.247,92"
+      },
+      "contratados": [
+        {
+          "nome": "AHCOR COMERCIO DE PRODUTOS ODONTOLÓGICOS LTDA",
+          "cpf_cnpj": "37.556.213/0001-04",
+          "vigencia": {
+            "inicio": "12/12/2023",
+            "fim": "12/12/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P.R.N. SILVA COMERCIO EPP",
+          "cpf_cnpj": "03.156.192/0001-18",
+          "vigencia": {
+            "inicio": "12/12/2023",
+            "fim": "12/12/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CASMED COM. DE ARTIGOS MÉDICOS E MED. LTDA - ME",
+          "cpf_cnpj": "07.332.016/0001-40",
+          "vigencia": {
+            "inicio": "12/12/2023",
+            "fim": "12/12/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "034/2023",
+      "processo_modalidade_completo": "Nº 034/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE VEÍCULOS NOVOS/ZERO QUILÔMETRO PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO",
+      "valores": {
+        "unitario": null,
+        "total": "1619000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.619.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "ZUCAVEL ZUCATELLI VEICULOS LTDA",
+          "cpf_cnpj": "05.147.384/0001-93",
+          "vigencia": {
+            "inicio": "14/12/2023",
+            "fim": "14/12/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "033/2023",
+      "processo_modalidade_completo": "Nº 033/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE MATERIAIS DE EXPEDIENTE, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1242970.82",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.242.970,82"
+      },
+      "contratados": [
+        {
+          "nome": "F D COMERCIO ATACADISTA E VAREJISTA LTDA",
+          "cpf_cnpj": "41.859.849/0001-00",
+          "vigencia": {
+            "inicio": "08/07/2024",
+            "fim": "08/07/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "PONTO DA SAUDE PRODUTOS HOSPITALARES, EQUIPAMENTOS E MATERIAL DE LIMPEZA EIRELI",
+          "cpf_cnpj": "17.557.433/0001-45",
+          "vigencia": {
+            "inicio": "24/11/2023",
+            "fim": "24/11/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "028/2023",
+      "processo_modalidade_completo": "Nº 028/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA PRESENTE LICITAÇÃO É AQUISIÇÃO DE MEDICAMENTOS DO COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA DE VENDA CONTROLADA PELA PORTARIA 344/98, PRESENTES NA RELAÇÃO NACIONAL DE MEDICAMENTOS ESSENCIAIS (RENAME) E DE PADRONIZAÇÃO PRÓPRIA DO MUNICÍPIO. SENDO ESTES APROVADOS PELO CONSELHO MUNICIPAL DE SAÚDE (CMS) PARA COMPOR A RELAÇÃO MUNICIPAL DE MEDICAMENTOS ESSENCIAIS (REMUME) E MEDICAMENTO GERAL NÃO PERTENCENTE A PORTARIA 344/98, OBJETIVANDO ATENDER AS NECESSIDADES TERAPÊUTICAS DOS MUNÍCIPES DE CAPITÃO POÇO. CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I ?TERMO DE REFERÊNCIA, POR SISTEMA DE REGISTRO DE PREÇO, VISANDO FUTURAS PELA SECRETÁRIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO-PA, NOS TERMOS DA LEI.",
+      "valores": {
+        "unitario": null,
+        "total": "3398821.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.398.821,00"
+      },
+      "contratados": [
+        {
+          "nome": "A. UNIDOS DISTRIBUIDORA EIRELI",
+          "cpf_cnpj": "36.442.253/0001-62",
+          "vigencia": {
+            "inicio": "23/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BRAGANTINA DISTRIBUIDORA DE MEDICAMENTOS LTDA-ME",
+          "cpf_cnpj": "07.832.455/0001-12",
+          "vigencia": {
+            "inicio": "24/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ALTAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME",
+          "cpf_cnpj": "21.581.445/0001-82",
+          "vigencia": {
+            "inicio": "23/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBEN-DIST.DE PROD.FARM. LTDA",
+          "cpf_cnpj": "04.234.179/0001-00",
+          "vigencia": {
+            "inicio": "23/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. E. COMERCIO E SERVICOS LTDA",
+          "cpf_cnpj": "10.897.117/0001-73",
+          "vigencia": {
+            "inicio": "23/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "D M C MESSIAS LTDA",
+          "cpf_cnpj": "17.992.985/0001-81",
+          "vigencia": {
+            "inicio": "23/01/2024",
+            "fim": "23/01/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "032/2023",
+      "processo_modalidade_completo": "Nº 032/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE IMPRESSOS GRÁFICOS, VISANDO O FORNECIMENTO DE MATERIAIS DE MESMA NATUREZA, E O FORNECIMENTO DE MATERIAIS PERSONALIZADOS COM GARANTIA DE QUALIDADE E POR DEMANDA PARA MANUTENÇÃO DA ADMINISTRAÇÃO GERAL DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "1882036.9",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.882.036,90"
+      },
+      "contratados": [
+        {
+          "nome": "GRAFICA RAPIDA LTDA",
+          "cpf_cnpj": "35.644.124/0001-94",
+          "vigencia": {
+            "inicio": "06/12/2023",
+            "fim": "06/12/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "PUERTO RICO GRÁFICA & EVENTOS LTDA - EPP",
+          "cpf_cnpj": "24.281.647/0001-05",
+          "vigencia": {
+            "inicio": "06/12/2023",
+            "fim": "06/12/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "027/2023",
+      "processo_modalidade_completo": "Nº 027/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "PRESTAÇÃO DE SERVIÇO DE INSTALAÇÃO E MANUTENÇÃO DE CENTRAIS DE AR CONDICIONADOS, GELADEIRAS, FREEZERS, BEBEDOUROS, VENTILADORES E LIQUIDIFICADORES E AQUISIÇÃO DE MATERIAIS DE USO, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO - PA, NOS QUANTITATIVOS ESTIMADOS E DISCRIMINADOS, CONFORME ESPECIFICAÇÕES CONSTANTES NO EDITAL.",
+      "valores": {
+        "unitario": null,
+        "total": "685291.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$685.291,50"
+      },
+      "contratados": [
+        {
+          "nome": "T T M BALBINO EIRELI",
+          "cpf_cnpj": "41.875.830/0001-40",
+          "vigencia": {
+            "inicio": "27/10/2023",
+            "fim": "27/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "026/2023",
+      "processo_modalidade_completo": "Nº 026/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE MATERIAIS DE CONSTRUÇÃO, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO/PA, NOS QUANTITATIVOS ESTIMADOS E DISCRIMINADOS, CONFORME ESPECIFICAÇÕES CONSTANTES DO EDITAL.",
+      "valores": {
+        "unitario": null,
+        "total": "5127437.34",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.127.437,34"
+      },
+      "contratados": [
+        {
+          "nome": "S. L. R. DA SILVA BOMFIM CONSULTORIA E TREINAMENTOS LIMITADA",
+          "cpf_cnpj": "44.138.316/0001-10",
+          "vigencia": {
+            "inicio": "24/10/2023",
+            "fim": "24/10/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "GO VENDAS ELETRONICAS",
+          "cpf_cnpj": "36.521.392/0001-81",
+          "vigencia": {
+            "inicio": "24/10/2023",
+            "fim": "24/10/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J A LOPES DE ARAUJO EIRELI",
+          "cpf_cnpj": "27.140.566/0001-75",
+          "vigencia": {
+            "inicio": "23/10/2024",
+            "fim": "23/10/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "INFRASEG SOLUCOES EM PREVENCAO LTDA",
+          "cpf_cnpj": "37.406.687/0001-70",
+          "vigencia": {
+            "inicio": "24/10/2023",
+            "fim": "24/10/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MASTERSUL EQUIPAMENTOS DE SEGURANCA LTDA ­ EPP",
+          "cpf_cnpj": "18.274.923/0001-05",
+          "vigencia": {
+            "inicio": "24/10/2023",
+            "fim": "24/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "09/0252023",
+      "processo_modalidade_completo": "Nº 09/0252023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA PRESENTE LICITAÇÃO VERSA A LOCAÇÃO DE 02 CAMINHÕES COMPACTADORES DE LIXO COM CAPACIDADE DE 20M³, ANO DE FABRICAÇÃO MÍNIMO O ANO 2003 PARA SEREM USADOS NOS SERVIÇOS DE COLETA DOS RESÍDUOS SÓLIDOS DOMÉSTICOS E ASSIM ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE OBRAS DO MUNICÍPIO DE CAPITÃO POÇO, CONFORME ESPECIFICAÇÕES DO ANEXO I, NESTE EDITAL E DEMAIS ANEXOS.",
+      "valores": {
+        "unitario": "32000.0",
+        "total": "35800.0",
+        "raw": "V.U.: R$32.000,00 V.T.: R$35.800,00"
+      },
+      "contratados": [
+        {
+          "nome": "C. D. COSTA LTDA",
+          "cpf_cnpj": "23.465.147/0001-52",
+          "vigencia": {
+            "inicio": "15/09/2023",
+            "fim": "15/09/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "024/2023",
+      "processo_modalidade_completo": "Nº 024/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETIVO DA PRESENTE LICITAÇÃO É A ESCOLHA DA PROPOSTA MAIS VANTAJOSA PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAIS, SECRETARIAS E FUNDOS, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS O ANEXO I.",
+      "valores": {
+        "unitario": null,
+        "total": "3223140.7",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.223.140,70"
+      },
+      "contratados": [
+        {
+          "nome": "COMERCIAL L Q SALDANHA EIRELI - EPP",
+          "cpf_cnpj": "24.049.957/0001-90",
+          "vigencia": {
+            "inicio": "21/09/2023",
+            "fim": "21/09/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "21/09/2023",
+            "fim": "21/09/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R & C MARTINS COMÉRCIO LTDA - ME",
+          "cpf_cnpj": "18.175.732/0001-88",
+          "vigencia": {
+            "inicio": "21/09/2023",
+            "fim": "21/09/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R C V R DE OLIVEIRA - ME",
+          "cpf_cnpj": "15.300.567/0001-50",
+          "vigencia": {
+            "inicio": "21/09/2023",
+            "fim": "21/09/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "023/2023",
+      "processo_modalidade_completo": "Nº 023/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DESTINADOS A ALIMENTAÇÃO ESCOLAR DURANTE O PERÍODO LETIVO DE 2023 DO PROGRAMA NACIONAL DE ALIMENTAÇÃO CONFORME DESCRITO NO ANEXO I- TERMO DE REFERÊNCIA.",
+      "valores": {
+        "unitario": null,
+        "total": "6548562.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$6.548.562,50"
+      },
+      "contratados": [
+        {
+          "nome": "C M FLORENZANO WANZELER LTDA",
+          "cpf_cnpj": "26.372.424/0001-70",
+          "vigencia": {
+            "inicio": "15/03/2024",
+            "fim": "20/07/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R C V R DE OLIVEIRA - ME",
+          "cpf_cnpj": "15.300.567/0001-50",
+          "vigencia": {
+            "inicio": "20/07/2023",
+            "fim": "20/07/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A.R DA C BARRA LTDA",
+          "cpf_cnpj": "16.646.573/0001-27",
+          "vigencia": {
+            "inicio": "20/07/2023",
+            "fim": "20/07/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R S DE CASTRO EIRELI",
+          "cpf_cnpj": "36.620.827/0001-45",
+          "vigencia": {
+            "inicio": "28/06/2024",
+            "fim": "28/06/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "022/2023",
+      "processo_modalidade_completo": "Nº 022/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE GASES MEDICINAIS COM AQUISIÇÃO E RECARGA DE CILINDROS DE OXIGÊNIO E COMPRA DE MATERIAIS MEDICINAIS PARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE SAÚDE DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO, CONFORME DEMANDA E DISPONIBILIDADE ORÇAMENTARIA, DE ACORDO COM ESPECIFICAÇÕES E QUANTIDADES ESTABELECIDAS NO TEMO, MEDIANTE LICITAÇÃO.",
+      "valores": {
+        "unitario": null,
+        "total": "583474.2",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$583.474,20"
+      },
+      "contratados": [
+        {
+          "nome": "R.V.DA S MARQUES",
+          "cpf_cnpj": "06.105.627/0001-93",
+          "vigencia": {
+            "inicio": "15/02/2024",
+            "fim": "15/02/2025"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "White Martins Gases Inds. Norte Ltda",
+          "cpf_cnpj": "34.597.955/0013-23",
+          "vigencia": {
+            "inicio": "02/10/2023",
+            "fim": "02/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "021/2023",
+      "processo_modalidade_completo": "Nº 021/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA LICITAÇÃO TEM COMO NATUREZA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO, AQUISIÇÃO DE PEÇAS E BOMBAS SUBMERSAS DOS DIVERSOS SISTEMAS DE ABASTECIMENTOS DE ÁGUA DO MUNICÍPIO DE CAPITÃO POÇO/PA, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS.",
+      "valores": {
+        "unitario": null,
+        "total": "2069935.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.069.935,50"
+      },
+      "contratados": [
+        {
+          "nome": "Z L ELETRICA LTDA",
+          "cpf_cnpj": "47.460.874/0001-95",
+          "vigencia": {
+            "inicio": "28/08/2023",
+            "fim": "29/08/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. E DE OLIVEIRA RODRIGUES - ME",
+          "cpf_cnpj": "17.142.432/0001-30",
+          "vigencia": {
+            "inicio": "29/08/2023",
+            "fim": "28/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "018/2023",
+      "processo_modalidade_completo": "Nº 018/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA FUTURA CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE DESALOJAMENTO DE MORCEGOS E LIMPEZA DE FORRO, COM O FORNECIMENTO DE MÃO DE OBRA E TODOS OS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS NAS ÁREAS INTERNAS DA PREFEITURA, SECRETARIAS MUNICIPAIS, ESCOLAS E UNIDADES DE SAÚDE.",
+      "valores": {
+        "unitario": null,
+        "total": "92278.9",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$92.278,90"
+      },
+      "contratados": [
+        {
+          "nome": "MOURA IMUNIZACAO E CONTROLE DE PRAGAS LTDA",
+          "cpf_cnpj": "24.049.349/0001-86",
+          "vigencia": {
+            "inicio": "29/08/2023",
+            "fim": "29/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "020/2023",
+      "processo_modalidade_completo": "Nº 020/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA LICITAÇÃO TEM COMO NATUREZA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE ASFALTO CBUQ (CONCRETO BETUMINOSO USINADO A QUENTE) A SER UTILIZADO NA PAVIMENTAÇÃO E RECUPERAÇÃO DE VIAS PÚBLICAS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "800.0",
+        "total": "19149840.0",
+        "raw": "V.U.: R$800,00 V.T.: R$19.149.840,00"
+      },
+      "contratados": [
+        {
+          "nome": "R C CAVALCANTE EIRELI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "28/08/2023",
+            "fim": "28/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "019/2023",
+      "processo_modalidade_completo": "Nº 019/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AQUISIÇÃO DE MATERIAIS ELÉTRICOS PARA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA MUNICIPAL, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "2116800.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.116.800,00"
+      },
+      "contratados": [
+        {
+          "nome": "R REIS ENGENHARIA EIRELI",
+          "cpf_cnpj": "35.054.435/0001-01",
+          "vigencia": {
+            "inicio": "28/08/2023",
+            "fim": "28/08/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ADRIANA LEME ALVES MATERIAIS ELETRICOS ME",
+          "cpf_cnpj": "33.584.641/0001-90",
+          "vigencia": {
+            "inicio": "28/08/2023",
+            "fim": "28/08/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DELVALLE MATERIAIS ELÉTRICOS LTDA ME",
+          "cpf_cnpj": "37.227.550/0001-58",
+          "vigencia": {
+            "inicio": "28/08/2023",
+            "fim": "28/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2023",
+      "processo_modalidade_completo": "Nº 001/2023 Chamamento Público",
+      "modalidade": "Chamamento Público",
+      "objeto": "AQUISIÇÃO DE GÊNEROS DA AGRICULTURA FAMILIAR, DESTINADOS A ALIMENTAÇÃO ESCOLAR DA REDE DE ENSINO DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "1292995.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.292.995,00"
+      },
+      "contratados": [
+        {
+          "nome": "COOPERATIVA DE PRODUÇÃO E COMERCIALIZAÇÃO DOS AGRICULTORES FAMILIARES - COOPROCOFAM",
+          "cpf_cnpj": "32.916.754/0001-82",
+          "vigencia": {
+            "inicio": "17/08/2023",
+            "fim": "17/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "016/2023",
+      "processo_modalidade_completo": "Nº 016/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A FUTURA E EVENTUAL AQUISIÇÃO DE PEÇAS E ACESSÓRIOS AUTOMOTIVOS ORIGINAIS OU GENUÍNOS E NOVOS, PARA VEÍCULOS CATEGORIZADOS COMO LEVES, PESADOS, MÁQUINAS, CONFORME FABRICANTES E MODELOS, DOS TRANSPORTES DA ADMINISTRAÇÃO GERAL, PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1617773.84",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.617.773,84"
+      },
+      "contratados": [
+        {
+          "nome": "A R MOREIRA LTDA",
+          "cpf_cnpj": "08.248.778/0001-26",
+          "vigencia": {
+            "inicio": "03/07/2023",
+            "fim": "03/07/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "015/2023",
+      "processo_modalidade_completo": "Nº 015/2023 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇO CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAÇÃO DE FESTIVAIS E EVENTOS MEDIANTE A LOCAÇÃO DE ESTRUTURAS DE PALCO, SOM, ILUMINAÇÃO, ENTRE OUTROS EQUIPAMENTOS E SERVIÇOS, PARA ATENDIMENTO DO CALENDÁRIO DE EVENTOS PARA PREFEITURA E SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO/PA, SOB GESTÃO DA SECRETARIA MUNICIPAL DE TURISMO E CULTURA.",
+      "valores": {
+        "unitario": "6056590.0",
+        "total": null,
+        "raw": "V.U.: R$6.056.590,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "F5 PRODUCOES E EVENTOS EIRELI",
+          "cpf_cnpj": "36.071.815/0001-09",
+          "vigencia": {
+            "inicio": "07/06/2023",
+            "fim": "07/06/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "014/2023",
+      "processo_modalidade_completo": "Nº 014/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DESTINADOS AO ATENDIMENTO DAS NOVAS ROTAS DO TRANSPORTE ESCOLAR, DOS ALUNOS MATRICULADOS NA REDE MUNICIPAL DE EDUCAÇÃO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1524067.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.524.067,50"
+      },
+      "contratados": [
+        {
+          "nome": "G. A. DE SOUZA TRANSPORTES GARRAFAO DO NORTE LTDA",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "19/05/2023",
+            "fim": "19/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/2023",
+      "processo_modalidade_completo": "Nº 013/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM NO MUNICÍPIO DE CAPITÃO POÇO ? PA, PARA ATENDER A DIVERSOS SETORES E SECRETARIAS, PARA PARTICIPAÇÃO EXCLUSIVA DE MICROEMPRESA, EMPRESAS DE PEQUENO PORTE E MICROEMPREENDEDOR INDIVIDUAL, INSTALADAS NO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "301500.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$301.500,00"
+      },
+      "contratados": [
+        {
+          "nome": "M FELIPE DA SILVA - ME",
+          "cpf_cnpj": "83.858.001/0001-07",
+          "vigencia": {
+            "inicio": "17/05/2024",
+            "fim": "17/05/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2023",
+      "processo_modalidade_completo": "Nº 012/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FUTURA E EVENTUAL AQUISIÇÃO DE QUADRO DE VIDRO TEMPERADO, TRANSPARENTE COM PELÍCULA DE SEGURANÇA, NA COR BRANCA, MEDIDA 2.10X0,90X0,60, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": "1000.0",
+        "total": "85500.0",
+        "raw": "V.U.: R$1.000,00 V.T.: R$85.500,00"
+      },
+      "contratados": [
+        {
+          "nome": "J M A DE OLIVEIRA JUNIOR - ME",
+          "cpf_cnpj": "11.227.849/0001-19",
+          "vigencia": {
+            "inicio": "18/05/2023",
+            "fim": "18/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2023",
+      "processo_modalidade_completo": "Nº 011/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AQUISIÇÃO DE MATERIAIS ELÉTRICOS, ATENDENDO AS NECESSIDADES DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "3879199.92",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.879.199,92"
+      },
+      "contratados": [
+        {
+          "nome": "CONSTRUVITA COMERCIO E SERVICOS LTDA",
+          "cpf_cnpj": "37.386.859/0001-90",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. L. R. ARAUJO COM E SERVICOS - EPP",
+          "cpf_cnpj": "83.913.665/0001-13",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "PRAVALUZ COMERCIO LTDA-ME",
+          "cpf_cnpj": "12.046.768/0001-85",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R REIS ENGENHARIA EIRELI",
+          "cpf_cnpj": "35.054.435/0001-01",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2023",
+      "processo_modalidade_completo": "Nº 010/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA A AQUISIÇÃO DE RECARGA DE BOTIJÃO DE GÁS LIQUEFEITO DE PETRÓLEO ? GLP 13, DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA E SECRETARIAS NESTA CIDADE DE CAPITÃO POÇO/PA 1.2. A LICITAÇÃO SERÁ DIVIDIDA POR ITENS, CONFORME TABELA CONSTANTE DO TERMO DE REFERÊNCIA, FACULTANDO-SE",
+      "valores": {
+        "unitario": "104.0",
+        "total": "281499.0",
+        "raw": "V.U.: R$104,00 V.T.: R$281.499,00"
+      },
+      "contratados": [
+        {
+          "nome": "W DO NASCIMENTO FORTE EIRELI",
+          "cpf_cnpj": "40.877.674/0001-93",
+          "vigencia": {
+            "inicio": "18/04/2023",
+            "fim": "18/04/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2023",
+      "processo_modalidade_completo": "Nº 009/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA PRESENTE LICITAÇÃO É A ESCOLHA DA PROPOSTA MAIS VANTAJOSA PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE MATERIAIS TÉCNICOS: INSUMOS E CORRELATOS PARA LABORATÓRIO DE ANÁLISES CLINICAS PARA MANUTENÇÃO NO ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE, VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA. CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I ?TERMO DE REFERÊNCIA, POR SISTEMA DE REGISTRO DE PREÇO, VISANDO AQUISIÇÕES FUTURAS PELA SECRETÁRIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO-PA, NOS TERMOS DA LEI.",
+      "valores": {
+        "unitario": null,
+        "total": "491003.41",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$491.003,41"
+      },
+      "contratados": [
+        {
+          "nome": "DIMALAB ELETRONICS DO BRASIL LTDA - EPP",
+          "cpf_cnpj": "02.472.743/0001-90",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CIRUBEL ? CIRÚRGICA BELÉM COMÉRCIO E REPRESENTAÇÕES LTDA",
+          "cpf_cnpj": "05.323.167/0001-07",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "HABX COMÉRCIO & PRESTAÇÃO DE SERVIÇOS EM EQUIPAMENTOS DE HOSPITAIS E LABORATÓRIOS LTDA",
+          "cpf_cnpj": "28.767.124/0001-16",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CEPALAB LABORATORIOS LTDA",
+          "cpf_cnpj": "02.248.312/0001-44",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P P F COMÉRCIO E SERVIÇOS EIRELI - ME",
+          "cpf_cnpj": "07.606.575/0001-00",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBUIDORA PARANHOS ARTIGOS PARA LABORATÓRIOS LTDA",
+          "cpf_cnpj": "06.867.357/0001-58",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SILVA E DELGADO LTDA ME",
+          "cpf_cnpj": "08.393.709/0001-06",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SILSUL COMERCIO LTDA - EPP",
+          "cpf_cnpj": "57.359.168/0001-05",
+          "vigencia": {
+            "inicio": "05/06/2023",
+            "fim": "05/06/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2023",
+      "processo_modalidade_completo": "Nº 007/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE HORAS DE SERVIÇOS MECÂNICOS, ELÉTRICOS, LANTERNAGEM, TORNO E SOLDA PARA VEÍCULOS LEVES E PESADOS (GASOLINA E DIESEL), DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA, SECRETARIAS E FUNDOS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "2361200.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.361.200,00"
+      },
+      "contratados": [
+        {
+          "nome": "A R MOREIRA LTDA",
+          "cpf_cnpj": "08.248.778/0001-26",
+          "vigencia": {
+            "inicio": "14/04/2023",
+            "fim": "14/04/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2023",
+      "processo_modalidade_completo": "Nº 002/2023 Concorrência",
+      "modalidade": "Concorrência",
+      "objeto": "REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA VISANDO A MANUTENÇÃO DE ESTRADAS VICINAIS DO MUNICÍPIO DE CAPITÃO POÇO",
+      "valores": {
+        "unitario": null,
+        "total": "8012460.96",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$8.012.460,96"
+      },
+      "contratados": [
+        {
+          "nome": "Bel Casa Construcoes",
+          "cpf_cnpj": "05.783.082/0001-01",
+          "vigencia": {
+            "inicio": "24/05/2023",
+            "fim": "24/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2023",
+      "processo_modalidade_completo": "Nº 006/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS NA LOCAÇÃO VEÍCULOS AUTOMOTORES, TRATORES AGRÍCOLAS E MÁQUINAS PESADAS, OBJETIVANDO ATENDER AS NECESSIDADES DA PREFEITURA, SECRETARIAS E FUNDOS MUNICIPAIS DO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "6296304.33",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$6.296.304,33"
+      },
+      "contratados": [
+        {
+          "nome": "C. D. COSTA LTDA",
+          "cpf_cnpj": "23.465.147/0001-52",
+          "vigencia": {
+            "inicio": "03/05/2023",
+            "fim": "03/05/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "FF COMERCIO E LOCAÇÃO DE AUTOMOVEIS EIRELI",
+          "cpf_cnpj": "12.625.256/0001-73",
+          "vigencia": {
+            "inicio": "03/05/2023",
+            "fim": "03/05/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2023",
+      "processo_modalidade_completo": "Nº 002/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA LICITAÇÃO TEM COMO NATUREZA A CONTRATAÇÃO DE EMPRESA PARA FUTURA E EVENTUAL AQUISIÇÃO DE ÓLEO LUBRIFICANTES, FILTROS E BATERIAS VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1785125.28",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.785.125,28"
+      },
+      "contratados": [
+        {
+          "nome": "A R MOREIRA LTDA",
+          "cpf_cnpj": "08.248.778/0001-26",
+          "vigencia": {
+            "inicio": "01/03/2024",
+            "fim": "01/03/2025"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2023",
+      "processo_modalidade_completo": "Nº 001/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "PRESTAÇÃO DE SERVIÇOS DE FRETAMENTO DE 02 (DOIS) VEÍCULOS, COM MOTORISTA, CAPACIDADE MÍNIMA DE 20 (VINTE) LUGARES, COM NO MÁXIMO 05 (CINCO) ANOS DE USO, QUE ATENDA AO CÓDIGO NACIONAL DE TRÂNSITO, PERCORRENDO, CADA VEÍCULO, EM MÉDIA 525 KM/DIA, PARA TRANSPORTE DE PACIENTES E ACOMPANHANTES EM TRATAMENTO FORA DO DOMICÍLIO NA CIDADE DE CAPITÃO POÇO/PA, PARA ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE/FUNDO MUNICIPAL DE SAÚDE, DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "4098.0",
+        "total": "1116000.0",
+        "raw": "V.U.: R$4.098,00 V.T.: R$1.116.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "01/03/2023",
+            "fim": "01/03/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2023",
+      "processo_modalidade_completo": "Nº 004/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE PNEUS, CÂMARA DE AR, PROTETORES DE CÂMARAS E SERVIÇOS DE RECAPAGEM DE PNEUS PARA MANUTENÇÃO PREVENTIVA E CORRETIVA DOS VEÍCULOS E MÁQUINAS DA ADMINISTRAÇÃO MUNICIPAL DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA, SECRETARIAS E FUNDOS, DESTINADOS AO USO NAS REPARTIÇÕES PÚBLICAS MUNICIPAIS, NESTA CIDADE DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "2663315.46",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.663.315,46"
+      },
+      "contratados": [
+        {
+          "nome": "A R MOREIRA LTDA",
+          "cpf_cnpj": "08.248.778/0001-26",
+          "vigencia": {
+            "inicio": "02/03/2023",
+            "fim": "02/03/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "IMPACTO COMÉRCIO, LOCAÇÃO E SERVIÇOS LTDA-EPP",
+          "cpf_cnpj": "08.870.944/0001-21",
+          "vigencia": {
+            "inicio": "02/03/2023",
+            "fim": "02/03/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BOREAL SUL COMERCIAL LTDA",
+          "cpf_cnpj": "39.422.751/0001-31",
+          "vigencia": {
+            "inicio": "02/03/2023",
+            "fim": "02/03/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "003/2023",
+      "processo_modalidade_completo": "Nº 003/2023 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "A PRESENTE LICITAÇÃO TEM POR OBJETO FORNECIMENTO PARCELADO DE COMBUSTÍVEIS PARA ATENDER AS NECESSIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "18813708.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$18.813.708,00"
+      },
+      "contratados": [
+        {
+          "nome": "AUTO POSTO NAZARE LTDA",
+          "cpf_cnpj": "10.912.110/0001-83",
+          "vigencia": {
+            "inicio": "08/08/2023",
+            "fim": "08/08/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "003/2022",
+      "processo_modalidade_completo": "Nº 003/2022 Concorrência",
+      "modalidade": "Concorrência",
+      "objeto": "CONTRATAÇÃO FUTURA E EVENTUAL DE EMPRESA ESPECIALIDADE PARA PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA DE NATUREZA COMUM, MANUTENÇÃO PREDIAL (PREVENTIVA E CORRETIVA, REVITALIZAÇÃO E REPAROS), COM FORNECIMENTO DE MATERIAIS, MÃO DE OBRAS E EQUIPAMENTOS NOS PRÉDIOS PÚBLICOS.",
+      "valores": {
+        "unitario": "951368.0",
+        "total": null,
+        "raw": "V.U.: R$951.368,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "ALMEIDA LOCACOES, CONSTRUCOES E TERRAPLENAGEM LTDA",
+          "cpf_cnpj": "42.314.950/0001-30",
+          "vigencia": {
+            "inicio": "28/11/2022",
+            "fim": "28/11/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "021/2022",
+      "processo_modalidade_completo": "Nº 021/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS PARA DESALOJAMENTO DE MORCEGOS E LIMPEZA DE FORRO COM O FORNECIMENTO DE MÃO DE OBRA E TODOS OS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS NAS ÁREAS INTERNAS DA PREFEITURA, SECRETARIAS MUNICIPAIS, ESCOLAS, E UNIDADES DE SAÚDE.",
+      "valores": {
+        "unitario": null,
+        "total": "70331.97",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$70.331,97"
+      },
+      "contratados": [
+        {
+          "nome": "MOURA IMUNIZACAO E CONTROLE DE PRAGAS LTDA",
+          "cpf_cnpj": "24.049.349/0001-86",
+          "vigencia": {
+            "inicio": "17/01/2023",
+            "fim": "17/01/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "020/2022",
+      "processo_modalidade_completo": "Nº 020/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE AGENCIAMENTO DE PASSAGENS AÉREAS NACIONAIS E INTERNACIONAIS, QUE COMPREENDE A EMISSÃO, REMISSÃO, RESERVA, MARCAÇÃO, REMARCAÇÃO E CANCELAMENTO, COM FORNECIMENTO DE BILHETE ELETRÔNICO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES NA FORMA DO SISTEMA DE REGISTRO DE PREÇOS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, POR MEIO DE ATENDIMENTO REMOTO (E-MAIL E TELEFONE), PARA CONTRATAÇÕES FUTURAS, CONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE REFERÊNCIA (ANEXO I).",
+      "valores": {
+        "unitario": null,
+        "total": "388000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$388.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "T F MARQUES DA ROCHA",
+          "cpf_cnpj": "34.594.091/0001-52",
+          "vigencia": {
+            "inicio": "06/01/2022",
+            "fim": "06/01/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "018/2022",
+      "processo_modalidade_completo": "Nº 018/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MATERIAIS DE USO ODONTOLÓGICO PARA MANUTENÇÃO NO ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I ? TERMO DE REFERÊNCIA, POR SISTEMA DE REGISTRO DE PREÇO, VISANDO AQUISIÇÕES FUTURAS PELA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO/PA, NOS TERMOS DA LEI, NOS TERMOS DA LEI.",
+      "valores": {
+        "unitario": null,
+        "total": "933312.7",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$933.312,70"
+      },
+      "contratados": [
+        {
+          "nome": "VRM IMPORT LTDA",
+          "cpf_cnpj": "45.157.605/0001-29",
+          "vigencia": {
+            "inicio": "27/12/2022",
+            "fim": "27/12/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DISTRIBUIDORA HOSPITALARB EIRELI - EPP",
+          "cpf_cnpj": "26.543.386/0001-71",
+          "vigencia": {
+            "inicio": "27/12/2022",
+            "fim": "27/12/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "F. CARDOSO & CIA LTDA",
+          "cpf_cnpj": "04.949.905/0001-63",
+          "vigencia": {
+            "inicio": "27/12/2022",
+            "fim": "27/12/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "AHCOR COMERCIO DE PRODUTOS ODONTOLÓGICOS LTDA",
+          "cpf_cnpj": "37.556.213/0001-04",
+          "vigencia": {
+            "inicio": "27/12/2022",
+            "fim": "27/12/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J E S FONSECA COMÉRCIO -EPP",
+          "cpf_cnpj": "04.707.391/0001-30",
+          "vigencia": {
+            "inicio": "27/12/2022",
+            "fim": "27/12/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "019/2022",
+      "processo_modalidade_completo": "Nº 019/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇO PARA POSSÍVEL AQUISIÇÃO DE MATERIAIS DE EXPEDIENTE, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS. AS DEMAIS INFORMAÇÕES PERMANECEM INALTERADAS",
+      "valores": {
+        "unitario": null,
+        "total": "887594.62",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$887.594,62"
+      },
+      "contratados": [
+        {
+          "nome": "F D COMERCIO ATACADISTA E VAREJISTA LTDA",
+          "cpf_cnpj": "41.859.849/0001-00",
+          "vigencia": {
+            "inicio": "18/11/2022",
+            "fim": "18/11/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "017/2022",
+      "processo_modalidade_completo": "Nº 017/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE EMPRESA PARA O FORNECIMENTO DE MATERIAIS DE USO LABORATORIAIS PARA MANUTENÇÃO NO ATENDIMENTO DA SECRETÁRIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "245778.36",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$245.778,36"
+      },
+      "contratados": [
+        {
+          "nome": "Amazon Medical Care EIRELI",
+          "cpf_cnpj": "29.187.032/0001-20",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "CH3 COMERCIO DE PRODUTOS MEDICOS HOSPITALARES UNIPESSOAL LTDA",
+          "cpf_cnpj": "37.001.012/0001-40",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "F. CARDOSO & CIA LTDA",
+          "cpf_cnpj": "04.949.905/0001-63",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "VRM IMPORT LTDA",
+          "cpf_cnpj": "45.157.605/0001-29",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "WAMA PRODUTOS PARA LABORATORIO LTDA",
+          "cpf_cnpj": "66.000.787/0001-08",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "E. T. MARQUES EIRELI-ME",
+          "cpf_cnpj": "08.691.632/0001-50",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "Ebd Biotech Importacao E Comercio De Produtos Medicos Hospitalares Ltda",
+          "cpf_cnpj": "13.977.106/0001-91",
+          "vigencia": {
+            "inicio": "30/11/2022",
+            "fim": "30/11/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "016/2022",
+      "processo_modalidade_completo": "Nº 016/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE POSTES, MATERIAIS ELÉTRICOS E LOCAÇÃO DE VEÍCULO PARA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA, VISANDO ATENDER ÁS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA A LICITAÇÃO SERÁ DIVIDIDA EM ITENS, CONFORME TABELA CONSTANTE DO TERMO DE REFERÊNCIA, FACULTANDO-SE AO LICITANTE A PARTICIPAÇÃO EM QUANTOS ITENS FOREM DE SEU INTERESSE.",
+      "valores": {
+        "unitario": null,
+        "total": "3982953.05",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.982.953,05"
+      },
+      "contratados": [
+        {
+          "nome": "J.C.P. PRADO COMÉRCIO EIRELI-ME",
+          "cpf_cnpj": "21.254.778/0001-05",
+          "vigencia": {
+            "inicio": "25/10/2022",
+            "fim": "25/10/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. L. R. ARAUJO COM E SERVICOS - EPP",
+          "cpf_cnpj": "83.913.665/0001-13",
+          "vigencia": {
+            "inicio": "25/10/2022",
+            "fim": "25/10/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R REIS ENGENHARIA EIRELI",
+          "cpf_cnpj": "35.054.435/0001-01",
+          "vigencia": {
+            "inicio": "16/10/2023",
+            "fim": "16/10/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "015/2022",
+      "processo_modalidade_completo": "Nº 015/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO ESPECIALIZADA PARA FUTURA E EVENTUAL FORNECIMENTO DE REFEIÇÕES PRONTAS ACONDICIONADAS EM EMBALAGENS DESCARTÁVEIS, TIPO MARMITEX COM SUCO NATURAL DIVERSOS 300ML CONFORME DESCRITOS NO TERMO DE REFERÊNCIA E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "valores": {
+        "unitario": null,
+        "total": "412000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$412.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "RESTAURANTE E PIZZARIA JM LTDA",
+          "cpf_cnpj": "41.532.975/0001-48",
+          "vigencia": {
+            "inicio": "19/10/2022",
+            "fim": "19/10/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/2022",
+      "processo_modalidade_completo": "Nº 013/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE ARTEFATOS DE CIMENTO, TAIS COMO BLOQUETES, MEIO FIO E TUBOS DE CONCRETO, VISANDO ATENDER ÀS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO/PA. CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "valores": {
+        "unitario": null,
+        "total": "3948586.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.948.586,00"
+      },
+      "contratados": [
+        {
+          "nome": "M C SANTANAEIRELI EPP",
+          "cpf_cnpj": "26.991.878/0001-20",
+          "vigencia": {
+            "inicio": "19/09/2022",
+            "fim": "19/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ANTONIO J C DA SILVA EIRELI EPP",
+          "cpf_cnpj": "38.297.946/0001-34",
+          "vigencia": {
+            "inicio": "19/09/2022",
+            "fim": "19/09/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2022",
+      "processo_modalidade_completo": "Nº 012/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA PRESENTE LICITAÇÃO É A ESCOLHA DA PROPOSTA MAIS VANTAJOSA PARA AQUISIÇÃO DE SERVIÇOS, MATERIAIS DE INFORMÁTICA E SUPRIMENTOS PARA ATENDER AS NECESSIDADES DA PREFEITURA E DE TODAS AS SECRETARIAS DO MUNICÍPIO DE CAPITÃO POÇO. CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "valores": {
+        "unitario": null,
+        "total": "7249485.14",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$7.249.485,14"
+      },
+      "contratados": [
+        {
+          "nome": "AUDIOVISAO ELETROACUSTICA LTDA - ME",
+          "cpf_cnpj": "00.489.661/0001-22",
+          "vigencia": {
+            "inicio": "12/09/2022",
+            "fim": "12/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "L F DA CRUZ OLIVEIRA EIRELI",
+          "cpf_cnpj": "26.477.222/0001-93",
+          "vigencia": {
+            "inicio": "28/02/2023",
+            "fim": "28/02/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "Eletron Com. e Serviços em Inf. LTDA",
+          "cpf_cnpj": "07.164.433/0001-21",
+          "vigencia": {
+            "inicio": "19/09/2022",
+            "fim": "19/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "HMA COMERCIO E ATACADISTA DE PRODUTOS DE INFORMATICA E ELETROELETRONICOS LTDA",
+          "cpf_cnpj": "29.391.476/0001-82",
+          "vigencia": {
+            "inicio": "19/09/2022",
+            "fim": "19/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "INTERBRASIL COMERCIAL LTDA",
+          "cpf_cnpj": "46.036.096/0001-49",
+          "vigencia": {
+            "inicio": "19/09/2022",
+            "fim": "19/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "SOFTCOMP COMERCIO E SERVIÇOS INFORMATICA LTDA - ME",
+          "cpf_cnpj": "10.378.838/0001-77",
+          "vigencia": {
+            "inicio": "12/09/2022",
+            "fim": "12/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "TJ COMERCIO DE PRODUTOS EIRELI ME",
+          "cpf_cnpj": "27.274.178/0001-87",
+          "vigencia": {
+            "inicio": "12/09/2022",
+            "fim": "12/09/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "S B DE LIMA COMERCIO E SERVICOS EIRELI",
+          "cpf_cnpj": "43.527.998/0001-90",
+          "vigencia": {
+            "inicio": "28/02/2023",
+            "fim": "28/02/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "VETORSCAN SOLUÇÕES CORPORATIVAS E IMPORTAÇÃO EIRELI - ME",
+          "cpf_cnpj": "11.113.866/0001-25",
+          "vigencia": {
+            "inicio": "12/09/2022",
+            "fim": "12/09/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2022",
+      "processo_modalidade_completo": "Nº 011/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MATERIAL DE HIGIENE E LIMPEZA, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I, POR SISTEMA DE REGISTRO DE PREÇOS, VISANDO AQUISIÇÕES FUTURAS PELA PREFEITURA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "3205384.6",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.205.384,60"
+      },
+      "contratados": [
+        {
+          "nome": "J. E. TAVARES DE SOUZA FILHO - ME",
+          "cpf_cnpj": "27.422.577/0001-48",
+          "vigencia": {
+            "inicio": "18/09/2023",
+            "fim": "18/09/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R DOS SANTOS NOGUEIRA",
+          "cpf_cnpj": "34.714.441/0001-77",
+          "vigencia": {
+            "inicio": "22/08/2022",
+            "fim": "22/08/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "LIZ PARA COMERCIO E SERVIÇOS LTDA",
+          "cpf_cnpj": "41.081.966/0001-88",
+          "vigencia": {
+            "inicio": "22/08/2022",
+            "fim": "22/08/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "I DE ALMEIDA B. DIAS LTDA",
+          "cpf_cnpj": "29.751.618/0001-75",
+          "vigencia": {
+            "inicio": "22/08/2022",
+            "fim": "22/08/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2022",
+      "processo_modalidade_completo": "Nº 009/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE FUNERÁRIA, TRANSLADO E PARAMENTAÇÃO PARA PESSOAS DE BAIXA RENDA DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "646320.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$646.320,00"
+      },
+      "contratados": [
+        {
+          "nome": "COSTA E SILVA COMERCIO E SERVIÇOS FUNERARIOS LTDA",
+          "cpf_cnpj": "16.825.079/0001-20",
+          "vigencia": {
+            "inicio": "18/08/2022",
+            "fim": "18/08/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "JO PAULO DE FREITAS OLIVEIRA-ME",
+          "cpf_cnpj": "09.200.472/0001-62",
+          "vigencia": {
+            "inicio": "17/09/2023",
+            "fim": "17/09/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "FUNERÁRIA GLOBOPAX S/C LTDA-ME",
+          "cpf_cnpj": "02.213.802/0001-05",
+          "vigencia": {
+            "inicio": "19/08/2022",
+            "fim": "19/08/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2022",
+      "processo_modalidade_completo": "Nº 010/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I, POR SISTEMA DE REGISTRO DE PREÇOS, VISANDO AQUISIÇÕES FUTURAS PELA PREFEITURA MUNICIPAL DE CAPITÃO POÇO - SECRETARIAS MUNICIPAIS, E OUTROS ÓRGÃOS SOLICITANTES NOS TERMOS DA LEI",
+      "valores": {
+        "unitario": null,
+        "total": "1913640.45",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.913.640,45"
+      },
+      "contratados": [
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "03/02/2023",
+            "fim": "03/02/2024"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "008/2022",
+      "processo_modalidade_completo": "Nº 008/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE CILINDROS DE OXIGÊNIO, ABASTECIMENTO DE GASES MEDICINAIS COM FORNECIMENTO ININTERRUPTO ATRAVÉS COMPRA DE EQUIPAMENTO EM REGIME DE COMODATO E COMPRA DE MATERIAIS MEDICINAIS,",
+      "valores": {
+        "unitario": null,
+        "total": "388214.8",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$388.214,80"
+      },
+      "contratados": [
+        {
+          "nome": "White Martins Gases Inds. Norte Ltda",
+          "cpf_cnpj": "34.597.955/0013-23",
+          "vigencia": {
+            "inicio": "01/07/2022",
+            "fim": "01/07/2023"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R.V.DA S MARQUES",
+          "cpf_cnpj": "06.105.627/0001-93",
+          "vigencia": {
+            "inicio": "01/07/2022",
+            "fim": "01/07/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2022",
+      "processo_modalidade_completo": "Nº 007/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE 02 VEÍCULOS NOVOS/ZERO QUILÔMETRO, TIPO AMBULÂNCIA TIPO-A SIMPLES REMOÇÃO PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "185851.43",
+        "total": "262000.0",
+        "raw": "V.U.: R$185.851,43 V.T.: R$262.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "CONCEITO VEICULOS ESPECIAIS LTDA",
+          "cpf_cnpj": "14.270.164/0001-43",
+          "vigencia": {
+            "inicio": "27/06/2022",
+            "fim": "29/06/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2022",
+      "processo_modalidade_completo": "Nº 005/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE ESCOLAR NO MUNICÍPIO DE CAPITÃO POÇO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I (TERMO DE REFERÊNCIA), POR SISTEMA DE REGISTRO DE PREÇOS",
+      "valores": {
+        "unitario": null,
+        "total": "7301442.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$7.301.442,50"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "03/03/2023",
+            "fim": "31/12/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2022",
+      "processo_modalidade_completo": "Nº 004/2022 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE GÊNEROS ALIMENTÍCIOS DESTINADOS A MERENDA ESCOLAR NO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "5727360.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.727.360,00"
+      },
+      "contratados": [
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "12/04/2023",
+            "fim": "12/04/2024"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "P R S DE CASTRO EIRELI",
+          "cpf_cnpj": "36.620.827/0001-45",
+          "vigencia": {
+            "inicio": "13/04/2022",
+            "fim": "13/04/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "039/2021",
+      "processo_modalidade_completo": "Nº 039/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE SERVIÇO DE INSTALAÇÃO E MANUTENÇÃO PREVENTIVA E CORRETIVA DE CENTRAL DE AR E EQUIPAMENTOS/ELETROS DE REFRIGERAÇÃO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES APRESENTADAS NO ANEXO I (TERMO DE REFERÊNCIA), POR SISTEMA DE REGISTRO DE PREÇOS, VISANDO FUTURA CONTRATAÇÃO PELA PREFEITURA MUNICIPAL DE CAPITÃO POÇO - SECRETARIAS MUNICIPAIS, E OUTROS ÓRGÃOS SOLICITANTES NOS TERMOS DA LEI",
+      "valores": {
+        "unitario": null,
+        "total": "1037557.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.037.557,00"
+      },
+      "contratados": [
+        {
+          "nome": "T T M BALBINO EIRELI",
+          "cpf_cnpj": "41.875.830/0001-40",
+          "vigencia": {
+            "inicio": "27/12/2021",
+            "fim": "27/12/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "038/2021",
+      "processo_modalidade_completo": "Nº 038/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS QUE OBJETIVA A PRESTAÇÃO DE SERVIÇO DE PUBLICAÇÕES DE EXTRATOS DE EDITAIS, CONTRATOS, HOMOLOGAÇÕES E OUTROS QUE SE FIZEREM NECESSÁRIOS NAS IMPRENSAS OFICIAIS E JORNAIS DE GRANDE CIRCULAÇÃO NA REGIÃO",
+      "valores": {
+        "unitario": null,
+        "total": "1200000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.200.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "COSTA e PAES LTDA",
+          "cpf_cnpj": "08.602.474/0001-15",
+          "vigencia": {
+            "inicio": "14/12/2021",
+            "fim": "14/12/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "037/2021",
+      "processo_modalidade_completo": "Nº 037/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO E INSTALAÇÃO DE EQUIPAMENTOS DE VIDEOMONITORAMENTO URBANO PARA INTEGRAR O SISTEMA DE MONITORAMENTO DE VIDEO EM VIAS PÚBLICAS, ESTRATEGICAMENTE POSICIONADAS EM DIVERSAS RUAS DO MUNICÍPIO DE CAPITÃO POÇO POR REGISTRO DE PREÇOS",
+      "valores": {
+        "unitario": null,
+        "total": "204796.43",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$204.796,43"
+      },
+      "contratados": [
+        {
+          "nome": "TRASMISAT MONITORAMENTO DE SEGURANÇA LTDA",
+          "cpf_cnpj": "04.163.943/0001-96",
+          "vigencia": {
+            "inicio": "17/12/2021",
+            "fim": "17/12/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "033/2021",
+      "processo_modalidade_completo": "Nº 033/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE MANUTENÇÃO DE PONTES DE MADEIRA NO MUNICÍPIO DE CAPITÃO POÇO, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS",
+      "valores": {
+        "unitario": "4112828.8",
+        "total": "4101312.2",
+        "raw": "V.U.: R$4.112.828,80 V.T.: R$4.101.312,20"
+      },
+      "contratados": [
+        {
+          "nome": "R C C DINIZ EIRELI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "27/10/2021",
+            "fim": "27/10/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "032/2021",
+      "processo_modalidade_completo": "Nº 032/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE MANUTENÇÃO DAS ESCOLAS MUNICIPAIS DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "8916924.7",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$8.916.924,70"
+      },
+      "contratados": [
+        {
+          "nome": "R C C DINIZ EIREILI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "25/10/2021",
+            "fim": "25/10/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "031/2021",
+      "processo_modalidade_completo": "Nº 031/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO, DRENAGEM E SINALIZAÇÃO NAS VIAS PÚBLICA DO MUNICIPIO DE CAPITÃO POÇO/PA, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS",
+      "valores": {
+        "unitario": "6938831.45",
+        "total": "6911394.0",
+        "raw": "V.U.: R$6.938.831,45 V.T.: R$6.911.394,00"
+      },
+      "contratados": [
+        {
+          "nome": "PROVALLE PROJETOS E CONSTRUÇÕES CIVIS LTDA ME",
+          "cpf_cnpj": "03.636.328/0001-97",
+          "vigencia": {
+            "inicio": "26/10/2021",
+            "fim": "26/10/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "030/2021",
+      "processo_modalidade_completo": "Nº 030/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO, RECAPEAMENTO ASFÁLTICO E SINALIZAÇÃO NAS VIAS PÚBLICA DO MUNICIPIO DE CAPITÃO POÇO/PA, ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS",
+      "valores": {
+        "unitario": "3736157.23",
+        "total": "3721748.4",
+        "raw": "V.U.: R$3.736.157,23 V.T.: R$3.721.748,40"
+      },
+      "contratados": [
+        {
+          "nome": "PROVALLE PROJETOS E CONSTRUÇÕES CIVIS LTDA ME",
+          "cpf_cnpj": "03.636.328/0001-97",
+          "vigencia": {
+            "inicio": "28/10/2021",
+            "fim": "28/10/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "9/0192021",
+      "processo_modalidade_completo": "Nº 9/0192021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DO SERVIÇO DE FORNECIMENTO DE REFEIÇÕES DO TIPO MARMITEX E SELF SERVICE PARA ATENDER AS NECESSIDADES DA PREFEITURA, FUNDOS E DEMAIS SECRETARIAS MUNICIPAIS DO MUNICIPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": "20.0",
+        "total": "179400.0",
+        "raw": "V.U.: R$20,00 V.T.: R$179.400,00"
+      },
+      "contratados": [
+        {
+          "nome": "PAULO CEZAR LIMA DE ANDRE",
+          "cpf_cnpj": "41.532.975/0001-48",
+          "vigencia": {
+            "inicio": "22/07/2021",
+            "fim": "22/07/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "9/0182021",
+      "processo_modalidade_completo": "Nº 9/0182021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM NO MUNICÍPIO DE CAPITÃO POÇO?PA, PARA ATENDER A DIVERSOS SETORES E SECRETARIAS, PARA PARTICIPAÇÃO EXCLUSIVA DE MICROEMPRESA, EMPRESAS DE PEQUENO PORTE E MICROEMPREENDEDOR INDIVIDUAL, INSTALADAS NO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "155188.4",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$155.188,40"
+      },
+      "contratados": [
+        {
+          "nome": "M FELIPE DA SILVA - ME",
+          "cpf_cnpj": "83.858.001/0001-07",
+          "vigencia": {
+            "inicio": "23/07/2021",
+            "fim": "23/07/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "9/0172021",
+      "processo_modalidade_completo": "Nº 9/0172021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE PNEUS, CÂMARAS DE AR, PROTETOR DE CÂMARAS E RECAPAGEM DE PNEUS PARA FROTA DE VEÍCULOS E MAQUINAS DA ADMINISTRAÇÃO MUNICIPAL DESTINADO ATENDEREM AS NECESSIDADES DA PREFEITURA, SECRETARIAS E FUNDOS MUNICIPAIS DO MUNICÍPIO DE CAPITÃO POÇO/PA",
+      "valores": {
+        "unitario": null,
+        "total": "1520119.74",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.520.119,74"
+      },
+      "contratados": [
+        {
+          "nome": "J J K PECAS E ACESSORIOS AUTOMOTORES EIRELI",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "26/05/2022",
+            "fim": "26/05/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "9/0162021",
+      "processo_modalidade_completo": "Nº 9/0162021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE TUBOS DE CONCRETO ARMADO, EM ATENDIMENTO ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE OBRAS DO MUNICÍPIO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1282520.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.282.520,00"
+      },
+      "contratados": [
+        {
+          "nome": "D. R. DA CUNHA EIRELI - EPP",
+          "cpf_cnpj": "27.684.538/0001-19",
+          "vigencia": {
+            "inicio": "22/07/2021",
+            "fim": "22/07/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "09/0152021",
+      "processo_modalidade_completo": "Nº 09/0152021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A LOCAÇÃO VEÍCULOS PARA O ATENDIMENTO DO TRANSPORTE ESCOLAR DOS ALUNOS MATRICULADOS NA REDE MUNICIPAL DE EDUCAÇÃO DE CAPITÃO POÇO/PA.",
+      "valores": {
+        "unitario": null,
+        "total": "1715155.2",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.715.155,20"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "03/08/2021",
+            "fim": "03/08/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2021",
+      "processo_modalidade_completo": "Nº 012/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA FUTURA CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE DESALOJAMENTO DE MORCEGOS E LIMPEZA DE FORRO, COM O FORNECIMENTO DE MÃO DE OBRA E TODOS OS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS, NAS ÁREAS INTERNAS DA PREFEITURA, SECRETARIAS MUNICIPAIS, ESCOLAS E UNIDADES DE SAÚDE.",
+      "valores": {
+        "unitario": null,
+        "total": "162880.81",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$162.880,81"
+      },
+      "contratados": [
+        {
+          "nome": "MOURA IMUNIZACAO E CONTROLE DE PRAGAS EIRELI",
+          "cpf_cnpj": "24.049.349/0001-86",
+          "vigencia": {
+            "inicio": "16/08/2022",
+            "fim": "16/08/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2021",
+      "processo_modalidade_completo": "Nº 011/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE HORAS DE SERVIÇOS MECÂNICOS, ELÉTRICOS, LANTERNAGEM, TORNO E SOLDA PARA VEÍCULOS LEVES E PESADOS (GASOLINA E DIESEL).",
+      "valores": {
+        "unitario": null,
+        "total": "2019360.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$2.019.360,00"
+      },
+      "contratados": [
+        {
+          "nome": "JJK PEÇAS E ACESSÓRIOS AUTOMOTORES EIRELI",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "31/05/2022",
+            "fim": "31/05/2023"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2021",
+      "processo_modalidade_completo": "Nº 009/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MASSA ASFÁLTICA, DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE, ATRAVÉS DO SISTEMA DE REGISTRO DE PREÇO.",
+      "valores": {
+        "unitario": "530.0",
+        "total": "6307000.0",
+        "raw": "V.U.: R$530,00 V.T.: R$6.307.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "R C CAVALCANTE EIRELI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "07/06/2021",
+            "fim": "07/06/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2021",
+      "processo_modalidade_completo": "Nº 005/2021 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS.",
+      "valores": {
+        "unitario": null,
+        "total": "1047602.24",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.047.602,24"
+      },
+      "contratados": [
+        {
+          "nome": "E DO S DO C CAMPOS BELO EIRELI - ME",
+          "cpf_cnpj": "20.142.305/0001-45",
+          "vigencia": {
+            "inicio": "14/05/2021",
+            "fim": "14/05/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "JOSE MOACIR A DE OLIVEIRA",
+          "cpf_cnpj": "01.057.193/0001-80",
+          "vigencia": {
+            "inicio": "12/11/2021",
+            "fim": "12/11/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "12/11/2021",
+            "fim": "12/11/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2021",
+      "processo_modalidade_completo": "Nº 007/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO MATERIAIS DE EXPEDIENTE PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "839928.85",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$839.928,85"
+      },
+      "contratados": [
+        {
+          "nome": "B M PACHECO COMERCIO DE PECAS E ACESSORIOS EIRELI",
+          "cpf_cnpj": "35.609.947/0001-89",
+          "vigencia": {
+            "inicio": "08/03/2021",
+            "fim": "08/03/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "MUNDO MIX DISTRIBUIDORA",
+          "cpf_cnpj": "38.210.490/0001-23",
+          "vigencia": {
+            "inicio": "08/03/2021",
+            "fim": "08/03/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A P S CASTRO COMERCIO EIRELI - EPP",
+          "cpf_cnpj": "25.080.014/0001-93",
+          "vigencia": {
+            "inicio": "08/03/2021",
+            "fim": "08/03/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2021",
+      "processo_modalidade_completo": "Nº 006/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE AGENCIAMENTO DE PASSAGENS AÉREAS NACIONAIS E INTERNACIONAIS, QUE COMPREENDE A EMISSÃO, REEMISSÃO, RESERVA, MARCAÇÃO, REMARCAÇÃO E CANCELAMENTO, COM FORNECIMENTO DE BILHETE ELETRÔNICO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES NA FORMA DO SISTEMA DE REGISTRO DE PREÇOS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, POR MEIO DE ATENDIMENTO REMOTO (E-MAIL E TELEFONE), PARA CONTRATAÇÕES FUTURAS, CONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE REFERÊNCIA.",
+      "valores": {
+        "unitario": null,
+        "total": "294000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$294.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "T F MARQUES DA ROCHA",
+          "cpf_cnpj": "34.594.091/0001-52",
+          "vigencia": {
+            "inicio": "10/11/2021",
+            "fim": "10/11/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2021",
+      "processo_modalidade_completo": "Nº 004/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇO PARA POSSÍVEL AQUISIÇÃO DE MATERIAIS DE HIGIENE E LIMPEZA, DESTINADOS AO ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, SECRETARIAS E FUNDOS.",
+      "valores": {
+        "unitario": null,
+        "total": "1100156.9",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.100.156,90"
+      },
+      "contratados": [
+        {
+          "nome": "B N DE JESUS EIRELI",
+          "cpf_cnpj": "32.403.914/0001-90",
+          "vigencia": {
+            "inicio": "19/02/2021",
+            "fim": "19/02/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BOM BONS E DESCARTÁVEIS LTDA",
+          "cpf_cnpj": "01.580.769/0001-99",
+          "vigencia": {
+            "inicio": "19/02/2021",
+            "fim": "19/02/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "E DO S DO C CAMPOS BELO EIRELI - ME",
+          "cpf_cnpj": "20.142.305/0001-45",
+          "vigencia": {
+            "inicio": "19/02/2021",
+            "fim": "19/02/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "POLYMEDH EIRELI EPP",
+          "cpf_cnpj": "63.848.345/0001-10",
+          "vigencia": {
+            "inicio": "19/02/2021",
+            "fim": "19/02/2022"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. E. TAVARES DE SOUZA FILHO - ME",
+          "cpf_cnpj": "27.422.577/0001-48",
+          "vigencia": {
+            "inicio": "19/02/2021",
+            "fim": "19/02/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2021",
+      "processo_modalidade_completo": "Nº 002/2021 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO DE COMBUSTÍVEL, TIPO GASOLINA COMUM, ÓLEO DIESEL COMUM E ÓLEO DIESEL S10.",
+      "valores": {
+        "unitario": null,
+        "total": "11428220.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$11.428.220,00"
+      },
+      "contratados": [
+        {
+          "nome": "ANTONIO BARRETO FIGUEIREDO",
+          "cpf_cnpj": "01.960.147/0001-96",
+          "vigencia": {
+            "inicio": "05/02/2021",
+            "fim": "05/02/2022"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2017",
+      "processo_modalidade_completo": "Nº 002/2017 Chamamento Público",
+      "modalidade": "Chamamento Público",
+      "objeto": "CHAMADA PÚBLICA PARA PRESTADORES DE SERVIÇOS MÉDICOS HOSPITALARES E AMBULATORIAIS DE MÉDIA COMPLEXIDADE AOS USUÁRIOS DO SUS EM REGIME COMPLEMENTAR.",
+      "valores": {
+        "unitario": null,
+        "total": "989332.15",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$989.332,15"
+      },
+      "contratados": [
+        {
+          "nome": "CENTRO DIAGNÓSTICO LACP LTDA-ME",
+          "cpf_cnpj": "10.695.431/0001-73",
+          "vigencia": {
+            "inicio": "31/12/2017",
+            "fim": "31/12/2018"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "020/2020",
+      "processo_modalidade_completo": "Nº 020/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE MATERIAIS DE INFORMÁTICA, SUPRIMENTOS E SERVIÇOS DE MANUTENÇÃO PARA USO DA ADMINISTRAÇÃO GERAL MUNICIPAL.",
+      "valores": {
+        "unitario": null,
+        "total": "8078610.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$8.078.610,00"
+      },
+      "contratados": [
+        {
+          "nome": "B M PACHECO COMERCIO DE PECAS E ACESSORIOS EIRELI",
+          "cpf_cnpj": "35.609.947/0001-89",
+          "vigencia": {
+            "inicio": "21/12/2020",
+            "fim": "21/12/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "TEC SEG BARROS EIRELI",
+          "cpf_cnpj": "25.276.505/0001-04",
+          "vigencia": {
+            "inicio": "21/12/2020",
+            "fim": "21/12/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "019/2020",
+      "processo_modalidade_completo": "Nº 019/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS RESULTANTE DAS PROPOSTAS, PARA AQUISIÇÃO DE PNEUS, CÂMARAS DE AR, PROTETORES DE CÂMARAS E RECAPAGEM DE PNEUS PARA FROTA DE VEÍCULOS E MAQUINAS DA ADMINISTRAÇÃO MUNICIPAL, CONFORME ESPECIFICAÇÕES CONSTANTES NO ANEXO I, PARTE INTEGRANTE DO PRESENTE EDITAL.",
+      "valores": {
+        "unitario": null,
+        "total": "1211338.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.211.338,00"
+      },
+      "contratados": [
+        {
+          "nome": "JJK PEÇAS E ACESSÓRIOS AUTOMOTORES",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "18/12/2020",
+            "fim": "18/12/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "014/2020",
+      "processo_modalidade_completo": "Nº 014/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS DESTINADO A CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO DE PRÓTESES DENTÁRIAS.",
+      "valores": {
+        "unitario": null,
+        "total": "210000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$210.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "NEVALDO DE OLIVEIRA GOMES EIRELI",
+          "cpf_cnpj": "38.160.847/0001-06",
+          "vigencia": {
+            "inicio": "09/11/2020",
+            "fim": "09/11/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "017/2020",
+      "processo_modalidade_completo": "Nº 017/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA FORNECIMENTO DE URNAS E TRANSLADO PARA PESSOAS DE BAIXA RENDA DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "693350.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$693.350,00"
+      },
+      "contratados": [
+        {
+          "nome": "FUNERÁRIA GLOBOPAX S/C LTDA-ME",
+          "cpf_cnpj": "02.213.802/0001-05",
+          "vigencia": {
+            "inicio": "06/11/2020",
+            "fim": "06/11/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "COSTA E SILVA COMERCIO E SERVIÇOS FUNERARIOS LTDA",
+          "cpf_cnpj": "16.825.079/0001-20",
+          "vigencia": {
+            "inicio": "06/11/2020",
+            "fim": "06/11/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "016/2020",
+      "processo_modalidade_completo": "Nº 016/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CESSÃO DE DIREITO DE USO DE SOFTWARE DE GESTÃO ESCOLAR, COM IMPLANTAÇÃO, CONVERSÃO, TREINAMENTO, TESTE, SERVIÇOS DE MANUTENÇÃO, ATENDIMENTO E SUPORTE TÉCNICO, PARA ATENDIMENTO DA SECRETARIA DE EDUCAÇÃO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "37932.97",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$37.932,97"
+      },
+      "contratados": [
+        {
+          "nome": "ERGON DESENVOLVIMENTO DE SISTEMAS DE INFORMATICA LTDA",
+          "cpf_cnpj": "07.467.975/0001-73",
+          "vigencia": {
+            "inicio": "03/11/2020",
+            "fim": "03/11/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/02020",
+      "processo_modalidade_completo": "Nº 013/02020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE PEÇAS ORIGINAIS OU GENUÍNAS PARA A MANUTENÇÃO DA FROTA DE VEÍCULOS, LEVES E PESADOS, DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "1273080.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.273.080,00"
+      },
+      "contratados": [
+        {
+          "nome": "PEREIRA & RUFINO PECAS E ACESSORIOS LTDA - EPP",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "21/09/2020",
+            "fim": "21/09/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2020",
+      "processo_modalidade_completo": "Nº 012/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS QUE OBJETIVA A AQUISIÇÃO DE POSTES, MATERIAIS ELÉTRICOS E LOCAÇÃO DE VEÍCULO PARA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA DO MUNICÍPIO DE CAPITÃO POÇO, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA.",
+      "valores": {
+        "unitario": null,
+        "total": "3539483.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.539.483,00"
+      },
+      "contratados": [
+        {
+          "nome": "R REIS ENGENHARIA EIRELI",
+          "cpf_cnpj": "35.054.435/0001-01",
+          "vigencia": {
+            "inicio": "03/09/2020",
+            "fim": "03/09/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "DELVALLE MATERIAIS ELÉTRICOS LTDA ME",
+          "cpf_cnpj": "37.227.550/0001-58",
+          "vigencia": {
+            "inicio": "03/09/2020",
+            "fim": "03/09/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2020",
+      "processo_modalidade_completo": "Nº 011/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO E INSTALAÇÃO DE EQUIPAMENTOS PARA ACADEMIAS AO AR LIVRE NAS VILAS IGARAPÉ-AÇU E SANTA LUZIA E NO BAIRRO DO JR SEDE DO MUNICÍPIO.",
+      "valores": {
+        "unitario": null,
+        "total": "87939.6",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$87.939,60"
+      },
+      "contratados": [
+        {
+          "nome": "A. UNIDOS DISTRIBUIDORA EIRELI",
+          "cpf_cnpj": "36.442.253/0001-62",
+          "vigencia": {
+            "inicio": "07/08/2020",
+            "fim": "07/08/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2020",
+      "processo_modalidade_completo": "Nº 007/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL; PSICOTRÓPICO; MATERIAL TÉCNICO HOSPITALAR E MATERIAL DE LABORATÓRIO, PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE SAÚDE, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA.",
+      "valores": {
+        "unitario": null,
+        "total": "12071320.34",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$12.071.320,34"
+      },
+      "contratados": [
+        {
+          "nome": "CIRUBEL ? CIRÚRGICA BELÉM COMÉRCIO E REPRESENTAÇÕES LTDA",
+          "cpf_cnpj": "05.323.167/0001-07",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "POLYMEDH EIRELI EPP",
+          "cpf_cnpj": "63.848.345/0001-10",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ALTAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME",
+          "cpf_cnpj": "21.581.445/0001-82",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "A J COMERCIO ATACADISTA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA",
+          "cpf_cnpj": "32.137.731/0001-70",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BETANIAMED COMERCIAL EIRELI - EPP",
+          "cpf_cnpj": "09.560.267/0001-08",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R C ZAGALLO MARQUES & CIA - EPP",
+          "cpf_cnpj": "83.929.976/0001-70",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "ORTOMEDICA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA - ME",
+          "cpf_cnpj": "14.229.621/0001-56",
+          "vigencia": {
+            "inicio": "28/10/2020",
+            "fim": "28/10/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2020",
+      "processo_modalidade_completo": "Nº 010/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "REGISTRO DE PREÇOS QUE OBJETIVA A AQUISIÇÃO DE TUBOS EM CONCRETO ARMADO.",
+      "valores": {
+        "unitario": null,
+        "total": "500600.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$500.600,00"
+      },
+      "contratados": [
+        {
+          "nome": "D. R. DA CUNHA EIRELI - EPP",
+          "cpf_cnpj": "27.684.538/0001-19",
+          "vigencia": {
+            "inicio": "10/08/2020",
+            "fim": "31/12/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "008/2020",
+      "processo_modalidade_completo": "Nº 008/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "AQUISIÇÃO DE ITENS FRACASSADOS DO PREGÃO Nº 005/2020, QUE OBJETIVA A CONTRATAÇÃO DE EMPRESA PARA A AQUISIÇÃO DE IMPLEMENTOS AGRÍCOLAS, NOS QUANTITATIVOS DESCRIMINADOS, CONFORME ESPECIFICAÇÕES CONSTANTES NO ANEXO I",
+      "valores": {
+        "unitario": null,
+        "total": "139990.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$139.990,00"
+      },
+      "contratados": [
+        {
+          "nome": "PRIMAQ AGRICOLA LTDA - ME",
+          "cpf_cnpj": "10.322.268/0001-01",
+          "vigencia": {
+            "inicio": "05/05/2020",
+            "fim": "31/12/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2020",
+      "processo_modalidade_completo": "Nº 006/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇO QUE OBJETIVA A AQUISIÇÃO DE MATERIAL PERMANENTE PARA ATENDER A ADMINISTRAÇÃO GERAL, SECRETARIAS E FUNDOS MUNICIPAIS DESTE MUNICÍPIO, A FIM DE ATENDER A NECESSIDADE DOS ÓRGÃOS.",
+      "valores": {
+        "unitario": null,
+        "total": "8220472.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$8.220.472,00"
+      },
+      "contratados": [
+        {
+          "nome": "VIA FORTE DISTRIBUIDORA LTDA-ME",
+          "cpf_cnpj": "26.879.526/0001-87",
+          "vigencia": {
+            "inicio": "25/03/2020",
+            "fim": "25/03/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "O.L.L. EIRELI - EPP",
+          "cpf_cnpj": "25.309.205/0001-84",
+          "vigencia": {
+            "inicio": "25/03/2020",
+            "fim": "25/03/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "003/2020",
+      "processo_modalidade_completo": "Nº 003/2020 Pregão Eletrônico",
+      "modalidade": "Pregão Eletrônico",
+      "objeto": "O OBJETO DA PRESENTE LICITAÇÃO É O REGISTRO DE PREÇOS PARA A AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS MERENDA ESCOLAR (PROGRAMA PNAE), CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "valores": {
+        "unitario": null,
+        "total": "3557850.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$3.557.850,00"
+      },
+      "contratados": [
+        {
+          "nome": "A P S CASTRO COMERCIO EIRELI - EPP",
+          "cpf_cnpj": "25.080.014/0001-93",
+          "vigencia": {
+            "inicio": "18/03/2020",
+            "fim": "31/12/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "JOSE MOACIR A DE OLIVEIRA",
+          "cpf_cnpj": "01.057.193/0001-80",
+          "vigencia": {
+            "inicio": "18/03/2020",
+            "fim": "21/12/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "18/03/2020",
+            "fim": "31/12/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2020",
+      "processo_modalidade_completo": "Nº 001/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO DE COMBUSTÍVEL, TIPO GASOLINA COMUM, ÓLEO DIESEL COMUM E ÓLEO DIESEL S10",
+      "valores": {
+        "unitario": null,
+        "total": "10136840.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$10.136.840,00"
+      },
+      "contratados": [
+        {
+          "nome": "ANTONIO BARRETO FIGUEIREDO",
+          "cpf_cnpj": "01.960.147/0001-96",
+          "vigencia": {
+            "inicio": "03/03/2020",
+            "fim": "03/03/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "002/2020",
+      "processo_modalidade_completo": "Nº 002/2020 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "LOCAÇÃO DE VEICULOS AUTOMOTORES, AGRICOLAS E MÁQUINAS PESADAS, PARA ATENDIMENTO DA ADMINISTRAÇÃO PÚBLICA DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "5911320.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.911.320,00"
+      },
+      "contratados": [
+        {
+          "nome": "W. E. MOTOS COMERCIO E SERVICOS LTDA - ME",
+          "cpf_cnpj": "18.499.826/0001-02",
+          "vigencia": {
+            "inicio": "30/01/2020",
+            "fim": "02/03/2021"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J M COMERCIO E LOCACAO DE VEICULOS LTDA - ME",
+          "cpf_cnpj": "21.659.500/0001-00",
+          "vigencia": {
+            "inicio": "30/01/2020",
+            "fim": "30/01/2021"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "025/2019",
+      "processo_modalidade_completo": "Nº 025/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA FUTURA CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO DE BOMBAS SUBMERSAS DOS DIVERSOS SISTEMA DE ABASTECIMENTOS DE AGUAS DO MUNICÍO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "662350.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$662.350,00"
+      },
+      "contratados": [
+        {
+          "nome": "R.R. TRAVASSOS COMERCIO E SERVIÇOS LTDA - ME",
+          "cpf_cnpj": "09.397.926/0001-37",
+          "vigencia": {
+            "inicio": "22/11/2019",
+            "fim": "22/11/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "024/2019",
+      "processo_modalidade_completo": "Nº 024/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO DE MATERIAIS DE EXPEDIENTE PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "491954.75",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$491.954,75"
+      },
+      "contratados": [
+        {
+          "nome": "O.L.L. EIRELI - EPP",
+          "cpf_cnpj": "25.309.205/0001-84",
+          "vigencia": {
+            "inicio": "20/11/2019",
+            "fim": "20/11/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "C. N. MOTA & CIA LTDA",
+          "cpf_cnpj": "13.822.943/0001-41",
+          "vigencia": {
+            "inicio": "20/11/2019",
+            "fim": "20/11/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "022/2019",
+      "processo_modalidade_completo": "Nº 022/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE AGENCIAMENTO DE PASSAGENS AÉREAS NACIONAIS E INTERNACIONAIS, QUE COMPREENDE A EMISSÃO, REEMISSÃO, RESERVA, MARCAÇÃO, REMARCAÇÃO E CANCELAMENTO, COM FORNECIMENTO DE BILHETE ELETRÔNICO, CONFORME DESCRIÇÕES E ESPECIFICAÇÕES NA FORMA DO SISTEMA DE REGISTRO DE PREÇOS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, POR MEIO DE ATENDIMENTO REMOTO (E-MAIL E TELEFONE), PARA CONTRATAÇÕES FUTURAS, CONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE REFERÊNCIA (ANEXO I).",
+      "valores": {
+        "unitario": null,
+        "total": "209100.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$209.100,00"
+      },
+      "contratados": [
+        {
+          "nome": "M.DA.C DOS SANTOS PASSAGENS E TURISMO",
+          "cpf_cnpj": "30.508.044/0001-98",
+          "vigencia": {
+            "inicio": "12/11/2019",
+            "fim": "12/11/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "020/2019",
+      "processo_modalidade_completo": "Nº 020/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE PUBLICAÇÕES DE EXTRATOS DE EDITAIS, CONTRATOS, HOMOLOGAÇÕES E OUTROS QUE SE FIZEREM NECESSÁRIOS NAS IMPRENSAS OFICIAIS E JORNAIS DE GRANDE CIRCULAÇÃO NA REGIÃO, A FIM DE ATENDER A DEMANDA DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO E DEMAIS SECRETARIAS.",
+      "valores": {
+        "unitario": null,
+        "total": "502000.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$502.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "L A DA C PAES JUNIOR SERVIÇOS EIRELLI",
+          "cpf_cnpj": "04.822.230/0001-97",
+          "vigencia": {
+            "inicio": "20/09/2019",
+            "fim": "20/09/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "018/2019",
+      "processo_modalidade_completo": "Nº 018/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO DE MATERIAIS DIDÁTICOS PARA USO NA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "550170.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$550.170,00"
+      },
+      "contratados": [
+        {
+          "nome": "O.L.L. EIRELI - EPP",
+          "cpf_cnpj": "25.309.205/0001-84",
+          "vigencia": {
+            "inicio": "02/09/2019",
+            "fim": "02/09/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "013/2019",
+      "processo_modalidade_completo": "Nº 013/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL AQUISIÇÃO DE LUBRIFICANTES, FILTROS E BATERIAS PARA USO NOS TRANSPORTES DA ADMINISTRAÇÃO GERAL DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "1162424.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.162.424,00"
+      },
+      "contratados": [
+        {
+          "nome": "PEREIRA & RUFINO PECAS E ACESSORIOS LTDA - EPP",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "02/07/2019",
+            "fim": "02/07/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "012/2019",
+      "processo_modalidade_completo": "Nº 012/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA FUTURA CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE DESALOJAMENTO DE MORCEGOS E LIMPEZA DE FORRO, COM O FORNECIMENTO DE MÃO DE OBRA E TODOS OS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS, NAS ÁREAS INTERNAS DA PREFEITURA, SECRETARIAS MUNICIPAIS, ESCOLAS E UNIDADES DE SAÚDE.",
+      "valores": {
+        "unitario": null,
+        "total": "125569.3",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$125.569,30"
+      },
+      "contratados": [
+        {
+          "nome": "F A SHALON",
+          "cpf_cnpj": "24.049.349/0001-86",
+          "vigencia": {
+            "inicio": "26/06/2019",
+            "fim": "26/06/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2019",
+      "processo_modalidade_completo": "Nº 010/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE IMPRESSOS GRÁFICOS E OUTROS RELACIONADOS A ATIVIDADE, PARA MANUTENÇÃO DA ADMINISTRAÇÃO GERAL DO MUNICÍPIO.",
+      "valores": {
+        "unitario": null,
+        "total": "1733069.5",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.733.069,50"
+      },
+      "contratados": [
+        {
+          "nome": "PUERTO RICO GRÁFICA & EVENTOS LTDA - EPP",
+          "cpf_cnpj": "24.281.647/0001-05",
+          "vigencia": {
+            "inicio": "13/05/2019",
+            "fim": "13/05/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "M L DE ARAUJO SANTOS & F M S ARAUJO LTDA - ME",
+          "cpf_cnpj": "83.359.810/0001-66",
+          "vigencia": {
+            "inicio": "13/05/2019",
+            "fim": "13/05/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "I. DE MORAIS LIMA ? ME",
+          "cpf_cnpj": "14.854.414/0001-92",
+          "vigencia": {
+            "inicio": "13/05/2019",
+            "fim": "13/05/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2019",
+      "processo_modalidade_completo": "Nº 009/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE HORAS DE SERVIÇOS MECÂNICOS, ELÉTRICOS, LANTERNAGEM, TORNO E SOLDA PARA VEÍCULOS LEVES E PESADOS (GASOLINA E DIESEL)",
+      "valores": {
+        "unitario": null,
+        "total": "1787300.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.787.300,00"
+      },
+      "contratados": [
+        {
+          "nome": "PEREIRA & RUFINO PECAS E ACESSORIOS LTDA - EPP",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "08/05/2019",
+            "fim": "08/05/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "008/2019",
+      "processo_modalidade_completo": "Nº 008/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE INTERNET, COM FORNECIMENTO DE LINK 24 HORAS, PARA ACESSO À INTERNET, HOMOLOGADO PELA ANATEL, SEM LIMITE DE TRÁFEGO, DESTINADO A ATENDER AS NECESSIDADES DA PREFEITURA, FUNDO MUNICIPAL DE EDUCAÇÃO, FUNDO MUNICIPAL DE SAÚDE, FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIVERSAS SECRETARIAS DESTE MUNICÍPIO DE CAPITÃO POÇO/PA, POR UM PERÍODO DE 12 (DOZE) MESES.",
+      "valores": {
+        "unitario": null,
+        "total": "87480.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$87.480,00"
+      },
+      "contratados": [
+        {
+          "nome": "CLICK ENTER LDTA ME",
+          "cpf_cnpj": "10.984.041/0001-13",
+          "vigencia": {
+            "inicio": "08/04/2019",
+            "fim": "08/04/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2019",
+      "processo_modalidade_completo": "Nº 007/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇO PARA POSSÍVEL AQUISIÇÃO DE REFEIÇÕES DO TIPO MARMITEX E SELF SERVICE PARA ATENDER A ADMINISTRAÇÃO, SECRETARIAS E FUNDOS.",
+      "valores": {
+        "unitario": "22.17",
+        "total": "152000.0",
+        "raw": "V.U.: R$22,17 V.T.: R$152.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "MASTERSERV PRODUCAO DE EVENTOS EIRELI",
+          "cpf_cnpj": "30.796.879/0001-90",
+          "vigencia": {
+            "inicio": "02/04/2019",
+            "fim": "02/04/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "006/2019",
+      "processo_modalidade_completo": "Nº 006/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE PEÇAS ORIGINAIS OU GENUINAS PARA A MANUTENÇÃO DA FROTA DE VEÍCULOS, LEVES E PESADOS, DA PREFEITURA MUNICIPAL DE CAPITÃO POÇO, POR SISTEMA DE REGISTRO DE PREÇOS",
+      "valores": {
+        "unitario": null,
+        "total": "1098220.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$1.098.220,00"
+      },
+      "contratados": [
+        {
+          "nome": "J M COMERCIO E LOCACAO DE VEICULOS LTDA - ME",
+          "cpf_cnpj": "21.659.500/0001-00",
+          "vigencia": {
+            "inicio": "04/04/2019",
+            "fim": "04/04/2020"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J J K PEÇAS E ACESSÓRIOS AUTOMOTIVOS",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "04/04/2019",
+            "fim": "04/04/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "005/2019",
+      "processo_modalidade_completo": "Nº 005/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE MASSA ASFÁLTICA, DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE, ATRAVÉS DO SISTEMA DE REGISTRO DE PREÇO.",
+      "valores": {
+        "unitario": "520.0",
+        "total": "7072000.0",
+        "raw": "V.U.: R$520,00 V.T.: R$7.072.000,00"
+      },
+      "contratados": [
+        {
+          "nome": "R C CAVALCANTE EIRELI",
+          "cpf_cnpj": "08.307.534/0001-77",
+          "vigencia": {
+            "inicio": "01/04/2019",
+            "fim": "01/04/2020"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2019",
+      "processo_modalidade_completo": "Nº 001/2019 Chamamento Público",
+      "modalidade": "Chamamento Público",
+      "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL, PARA O ATENDIMENTO DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR / PNAE.",
+      "valores": {
+        "unitario": "14.72",
+        "total": null,
+        "raw": "V.U.: R$14,72 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "JOSÉ ILSON DE SOUZA SILVA516.454.752-04",
+          "cpf_cnpj": "15.232.790/0001-08",
+          "vigencia": {
+            "inicio": "22/03/2019",
+            "fim": "31/12/2019"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "COOPERATIVA DOS PRODUTORES E AGRICULTORES RURAIS DE CAPITAO POCO - COOPARCAP",
+          "cpf_cnpj": "32.929.260/0001-32",
+          "vigencia": {
+            "inicio": "22/03/2019",
+            "fim": "31/12/2019"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "COOPERATIVA DE PRODUTORES E AGRICULTORES DE LIVRAMENTO - COOPALI",
+          "cpf_cnpj": "24.406.239/0001-24",
+          "vigencia": {
+            "inicio": "22/03/2019",
+            "fim": "31/12/2019"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "Cooperativa Agrícola, Pecuária e Extrativa do Município de Irituia.",
+          "cpf_cnpj": "04.243.356/0001-07",
+          "vigencia": {
+            "inicio": "22/03/2019",
+            "fim": "31/12/2019"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "004/2019",
+      "processo_modalidade_completo": "Nº 004/2019 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE ESCOLAR NO MUNICIPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": null,
+        "total": "5214632.0",
+        "raw": "V.U.: DIVERSOS ITENS V.T.: R$5.214.632,00"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "19/03/2019",
+            "fim": "31/12/2019"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "001/2018",
+      "processo_modalidade_completo": "Nº 001/2018 Chamamento Público",
+      "modalidade": "Chamamento Público",
+      "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL, PARA O ATENDIMENTO DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR / PNAE,",
+      "valores": {
+        "unitario": "15.0",
+        "total": null,
+        "raw": "V.U.: R$15,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "JOSÉ ILSON DE SOUZA SILVA516.454.752-04",
+          "cpf_cnpj": "24.406.239/0001-24",
+          "vigencia": {
+            "inicio": "26/02/2018",
+            "fim": "31/12/2018"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "018/2017",
+      "processo_modalidade_completo": "Nº 018/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONTRATAÇÃO DE HORAS DE SERVIÇOS MECÂNICOS, ELÉTRICOS, LANTERNAGEM, TORNO E SOLDA PARA VEÍCULOS LEVES E PESADOS (GASOLINA E DIESEL).",
+      "valores": {
+        "unitario": null,
+        "total": null,
+        "raw": "V.U.: DIVERSOS ITENS V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "PEREIRA & RUFINO PECAS E ACESSORIOS LTDA - EPP",
+          "cpf_cnpj": "09.320.499/0001-99",
+          "vigencia": {
+            "inicio": "07/07/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "016/2017",
+      "processo_modalidade_completo": "Nº 016/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA ATENDIMENTO AO TRANSPORTE ESCOLAR DO MUNICIPIO DURANTE O ANO LETIVO 2017",
+      "valores": {
+        "unitario": "312.12",
+        "total": null,
+        "raw": "V.U.: R$312,12 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "12/06/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "015/2017",
+      "processo_modalidade_completo": "Nº 015/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE MATERIAL ELÉTRICOS, PARA MANUTENÇÃO DOS ÓRGÃO PUBLICOS DE USO DESTA ADMINISTRAÇÃO.",
+      "valores": {
+        "unitario": "9.0",
+        "total": null,
+        "raw": "V.U.: R$9,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "J. C. P. PRADO COMÉRCIO EIRELI - ME",
+          "cpf_cnpj": "21.254.778/0001-05",
+          "vigencia": {
+            "inicio": "02/06/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. L. R. ARAÚJO COMÉRCIO E SERVIÇOS - EPP",
+          "cpf_cnpj": "83.913.665/0001-13",
+          "vigencia": {
+            "inicio": "02/06/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R.R. TRAVASSOS COMERCIO E SERVIÇOS LTDA - ME",
+          "cpf_cnpj": "09.397.926/0001-37",
+          "vigencia": {
+            "inicio": "02/06/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "014/2017",
+      "processo_modalidade_completo": "Nº 014/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE MATERIAIS ELETRICOS PARA MANUTENÇÃO DA ILUMINAÇÃO PUBLICA DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "39.82",
+        "total": null,
+        "raw": "V.U.: R$39,82 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "J. C. P. PRADO COMÉRCIO EIRELI - ME",
+          "cpf_cnpj": "21.254.778/0001-05",
+          "vigencia": {
+            "inicio": "31/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R.R. TRAVASSOS COMERCIO E SERVIÇOS LTDA - ME",
+          "cpf_cnpj": "09.397.926/0001-37",
+          "vigencia": {
+            "inicio": "31/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "J. L. R. ARAÚJO COMÉRCIO E SERVIÇOS - EPP",
+          "cpf_cnpj": "83.913.665/0001-13",
+          "vigencia": {
+            "inicio": "31/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "011/2017",
+      "processo_modalidade_completo": "Nº 011/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA POSSÍVEL CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS DE FRETAMENTO DE 02 VEÍCULOS, COM MOTORISTA, CAPACIDADE MINIMA DE 20 (VINTE) LUGARES, COM NO MAXIMO 07 (SETE) ANOS DE USO, QUE ATENDA AO CÓDIGO NACIONAL DE TRÂNSITO, PERCORRENDO, CADA VEÍCULO, EM MÉDIA 525/KMDIA, PARA TRANSPORTE DE PACIENTES E ACOMPANHANTES EM TRATAMENTO FORA DO DOMICÍLIO NA CIDADE DE CAPITÃO POÇO/PA, PARA ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE/FUNDO MUNICIPAL DE SAÚDE, DO MUNICÍPIO DE CAPITÃO POÇO.",
+      "valores": {
+        "unitario": "1254.44",
+        "total": null,
+        "raw": "V.U.: R$1.254,44 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "G. E. A. TRANSPORTES GARRAFAO DO NORTE LTDA - EPP",
+          "cpf_cnpj": "10.719.196/0001-22",
+          "vigencia": {
+            "inicio": "12/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "010/2017",
+      "processo_modalidade_completo": "Nº 010/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇO PARA POSSÍVEL AQUISIÇÃO DE REFEIÇÕES DO TIPO MARMITEX E SELF SERVICE PARA ATENDER A ADMINISTRAÇÃO, SECRETARIAS E FUNDOS.",
+      "valores": {
+        "unitario": "18.0",
+        "total": null,
+        "raw": "V.U.: R$18,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "RAMOS & REZENDE BAR E RESTAURANTE LTDA - ME",
+          "cpf_cnpj": "23.716.569/0001-53",
+          "vigencia": {
+            "inicio": "12/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "009/2017",
+      "processo_modalidade_completo": "Nº 009/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "AQUISIÇÃO DE RECARGA EM BOTIJÃO DE GÁS LIQUEFEITO DE PETRÓLEO - GLP P13.",
+      "valores": {
+        "unitario": "62.0",
+        "total": null,
+        "raw": "V.U.: R$62,00 V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "S M & R R DA SILVA LTDA - ME",
+          "cpf_cnpj": "13.969.745/0001-05",
+          "vigencia": {
+            "inicio": "07/06/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    },
+    {
+      "numero_processo": "007/2017",
+      "processo_modalidade_completo": "Nº 007/2017 Pregão Presencial",
+      "modalidade": "Pregão Presencial",
+      "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO ESTIMADA DE GÊNEROS ALIMENTÍCIOS, DESTINADOS A MERENDA ESCOLAR DO ANO LETIVO DE 2017",
+      "valores": {
+        "unitario": null,
+        "total": null,
+        "raw": "V.U.: DIVERSOS ITENS V.T.:"
+      },
+      "contratados": [
+        {
+          "nome": "A P S CASTRO COMERCIO EIRELI - EPP",
+          "cpf_cnpj": "25.080.014/0001-93",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "AIKY COMÉRCIO E DISTRIBUIÇÃO LTDA",
+          "cpf_cnpj": "04.848.586/0001-08",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "FIS COMERCIAL LTDA",
+          "cpf_cnpj": "14.731.830/0001-01",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "JOSE MOACIR A DE OLIVEIRA",
+          "cpf_cnpj": "01.057.193/0001-80",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "E. DE SOUSA BERNALDO DE MENDONCA EIRELI - ME",
+          "cpf_cnpj": "23.880.946/0001-95",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "COMERCIAL L Q SALDANHA EIRELI - EPP",
+          "cpf_cnpj": "24.049.957/0001-90",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "R. MOURA BRITO DE PAULO - ME",
+          "cpf_cnpj": "15.082.022/0001-15",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "BOM BONS E DESCARTÁVEIS LTDA",
+          "cpf_cnpj": "01.580.769/0001-99",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        },
+        {
+          "nome": "FORTE ALIMENTOS EIRELI-ME",
+          "cpf_cnpj": "26.254.705/0001-29",
+          "vigencia": {
+            "inicio": "08/05/2017",
+            "fim": "31/12/2017"
+          },
+          "numero_contrato": null
+        }
+      ]
+    }
+  ]
+}

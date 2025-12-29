@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transparência - Prefeitura de Capitão Poço</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+    <script src="//cdn.jsdelivr.net/npm/3d-force-graph"></script>
+  </head>
+  <body>
+    <div id="3d-graph"></div>
+
+    <!-- Legenda -->
+    <div class="legend">
+      <h3>🏛️ Portal da Transparência Transparente</h3>
+      <p class="subtitle">Licitações de Capitão Poço/PA</p>
+
+      <div class="legend-items">
+        <div class="legend-item">
+          <span class="dot prefeitura"></span>
+          <span>Prefeitura Municipal</span>
+        </div>
+        <div class="legend-item">
+          <span class="dot licitacao"></span>
+          <span>Processos Licitatórios</span>
+        </div>
+        <div class="legend-item">
+          <span class="dot contratado"></span>
+          <span>Empresas Contratadas</span>
+        </div>
+      </div>
+
+      <div class="legend-info">
+        <p>💡 Clique em um nó para aproximar</p>
+        <p>🔗 Linhas conectam licitações às empresas vencedoras</p>
+      </div>
+    </div>
+
+    <!-- Créditos -->
+    <div class="credits">
+      <p>Desenvolvido por <strong>Mateus Eufrasio</strong></p>
+      <p class="credits-year">2025</p>
+    </div>
+
+    <script type="module" src="/js/main.js"></script>
+  </body>
+</html>
